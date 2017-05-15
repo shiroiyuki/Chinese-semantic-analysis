@@ -1,0 +1,6096 @@
+index = 0
+positive = 3 negative = 0
+index = 1
+positive = 3 negative = 0
+index = 2
+positive = 8 negative = 0
+index = 3
+positive = 5 negative = 0
+index = 4
+positive = 5 negative = 0
+index = 5
+positive = 4 negative = 1
+index = 6
+positive = 0 negative = 1
+index = 7
+positive = 4 negative = 0
+index = 8
+positive = 14 negative = 0
+index = 9
+positive = 1 negative = 0
+index = 10
+positive = 1 negative = 0
+index = 11
+positive = 5 negative = 0
+index = 12
+positive = 4 negative = 2
+index = 13
+positive = 2 negative = 1
+index = 14
+positive = 5 negative = 0
+index = 15
+positive = 4 negative = 0
+index = 16
+positive = 5 negative = 0
+index = 17
+positive = 0 negative = 0
+index = 18
+positive = 2 negative = 2
+index = 19
+positive = 4 negative = 0
+index = 20
+positive = 5 negative = 0
+index = 21
+positive = 0 negative = 0
+index = 22
+positive = 0 negative = 0
+index = 23
+positive = 4 negative = 2
+index = 24
+positive = 7 negative = 0
+index = 25
+positive = 5 negative = 1
+index = 26
+positive = 2 negative = 0
+index = 27
+positive = 0 negative = 2
+index = 28
+positive = 4 negative = 0
+index = 29
+positive = 2 negative = 0
+index = 30
+positive = 1 negative = 0
+index = 31
+positive = 1 negative = 0
+index = 32
+positive = 2 negative = 0
+index = 33
+positive = 4 negative = 0
+index = 34
+positive = 1 negative = 0
+index = 35
+positive = 2 negative = 0
+index = 36
+positive = 1 negative = 0
+index = 37
+positive = 1 negative = 1
+index = 38
+positive = 0 negative = 0
+index = 39
+positive = 0 negative = 0
+index = 40
+positive = 2 negative = 2
+index = 41
+positive = 1 negative = 0
+index = 42
+positive = 2 negative = 0
+index = 43
+positive = 2 negative = 2
+index = 44
+positive = 0 negative = 0
+index = 45
+positive = 2 negative = 1
+index = 46
+positive = 3 negative = 0
+index = 47
+positive = 0 negative = 0
+index = 48
+positive = 2 negative = 0
+index = 49
+positive = 0 negative = 0
+index = 50
+positive = 1 negative = 0
+index = 51
+positive = 2 negative = 0
+index = 52
+positive = 1 negative = 0
+index = 53
+positive = 1 negative = 0
+index = 54
+positive = 2 negative = 0
+index = 55
+positive = 0 negative = 0
+index = 56
+positive = 3 negative = 0
+index = 57
+positive = 0 negative = 1
+index = 58
+positive = 3 negative = 1
+index = 59
+positive = 2 negative = 0
+index = 60
+positive = 3 negative = 0
+index = 61
+positive = 2 negative = 0
+index = 62
+positive = 0 negative = 0
+index = 63
+positive = 1 negative = 1
+index = 64
+positive = 1 negative = 0
+index = 65
+positive = 0 negative = 0
+index = 66
+positive = 3 negative = 0
+index = 67
+positive = 4 negative = 0
+index = 68
+positive = 2 negative = 3
+index = 69
+positive = 0 negative = 0
+index = 70
+positive = 1 negative = 0
+index = 71
+positive = 2 negative = 0
+index = 72
+positive = 2 negative = 0
+index = 73
+positive = 0 negative = 0
+index = 74
+positive = 0 negative = 0
+index = 75
+positive = 6 negative = 2
+index = 76
+positive = 2 negative = 0
+index = 77
+positive = 2 negative = 2
+index = 78
+positive = 1 negative = 0
+index = 79
+positive = 2 negative = 0
+index = 80
+positive = 0 negative = 0
+index = 81
+positive = 1 negative = 0
+index = 82
+positive = 2 negative = 1
+index = 83
+positive = 1 negative = 0
+index = 84
+positive = 1 negative = 0
+index = 85
+positive = 5 negative = 0
+index = 86
+positive = 5 negative = 0
+index = 87
+positive = 6 negative = 0
+index = 88
+positive = 4 negative = 0
+index = 89
+positive = 9 negative = 1
+index = 90
+positive = 6 negative = 0
+index = 91
+positive = 3 negative = 0
+index = 92
+positive = 2 negative = 0
+index = 93
+positive = 3 negative = 0
+index = 94
+positive = 4 negative = 0
+index = 95
+positive = 2 negative = 0
+index = 96
+positive = 2 negative = 0
+index = 97
+positive = 2 negative = 0
+index = 98
+positive = 1 negative = 0
+index = 99
+positive = 0 negative = 0
+index = 100
+positive = 4 negative = 2
+index = 101
+positive = 2 negative = 2
+index = 102
+positive = 3 negative = 0
+index = 103
+positive = 3 negative = 0
+index = 104
+positive = 3 negative = 0
+index = 105
+positive = 0 negative = 0
+index = 106
+positive = 1 negative = 0
+index = 107
+positive = 1 negative = 0
+index = 108
+positive = 4 negative = 0
+index = 109
+positive = 0 negative = 0
+index = 110
+positive = 1 negative = 0
+index = 111
+positive = 2 negative = 2
+index = 112
+positive = 5 negative = 1
+index = 113
+positive = 1 negative = 0
+index = 114
+positive = 2 negative = 1
+index = 115
+positive = 5 negative = 0
+index = 116
+positive = 4 negative = 3
+index = 117
+positive = 5 negative = 7
+index = 118
+positive = 0 negative = 0
+index = 119
+positive = 4 negative = 0
+index = 120
+positive = 4 negative = 0
+index = 121
+positive = 0 negative = 0
+index = 122
+positive = 2 negative = 0
+index = 123
+positive = 4 negative = 1
+index = 124
+positive = 6 negative = 0
+index = 125
+positive = 0 negative = 0
+index = 126
+positive = 1 negative = 1
+index = 127
+positive = 3 negative = 0
+index = 128
+positive = 0 negative = 0
+index = 129
+positive = 2 negative = 1
+index = 130
+positive = 3 negative = 0
+index = 131
+positive = 3 negative = 0
+index = 132
+positive = 3 negative = 1
+index = 133
+positive = 1 negative = 0
+index = 134
+positive = 1 negative = 0
+index = 135
+positive = 2 negative = 0
+index = 136
+positive = 3 negative = 1
+index = 137
+positive = 1 negative = 0
+index = 138
+positive = 2 negative = 0
+index = 139
+positive = 0 negative = 0
+index = 140
+positive = 1 negative = 0
+index = 141
+positive = 2 negative = 1
+index = 142
+positive = 6 negative = 1
+index = 143
+positive = 5 negative = 1
+index = 144
+positive = 1 negative = 1
+index = 145
+positive = 5 negative = 0
+index = 146
+positive = 7 negative = 0
+index = 147
+positive = 1 negative = 0
+index = 148
+positive = 1 negative = 0
+index = 149
+positive = 8 negative = 1
+index = 150
+positive = 0 negative = 0
+index = 151
+positive = 9 negative = 2
+index = 152
+positive = 1 negative = 0
+index = 153
+positive = 2 negative = 0
+index = 154
+positive = 2 negative = 0
+index = 155
+positive = 4 negative = 1
+index = 156
+positive = 1 negative = 1
+index = 157
+positive = 4 negative = 2
+index = 158
+positive = 4 negative = 5
+index = 159
+positive = 0 negative = 0
+index = 160
+positive = 10 negative = 2
+index = 161
+positive = 5 negative = 1
+index = 162
+positive = 3 negative = 0
+index = 163
+positive = 4 negative = 0
+index = 164
+positive = 4 negative = 0
+index = 165
+positive = 3 negative = 0
+index = 166
+positive = 9 negative = 3
+index = 167
+positive = 3 negative = 0
+index = 168
+positive = 5 negative = 0
+index = 169
+positive = 9 negative = 3
+index = 170
+positive = 3 negative = 0
+index = 171
+positive = 2 negative = 3
+index = 172
+positive = 6 negative = 0
+index = 173
+positive = 5 negative = 1
+index = 174
+positive = 2 negative = 1
+index = 175
+positive = 1 negative = 0
+index = 176
+positive = 0 negative = 0
+index = 177
+positive = 9 negative = 3
+index = 178
+positive = 3 negative = 1
+index = 179
+positive = 1 negative = 1
+index = 180
+positive = 1 negative = 1
+index = 181
+positive = 0 negative = 0
+index = 182
+positive = 1 negative = 0
+index = 183
+positive = 1 negative = 0
+index = 184
+positive = 2 negative = 0
+index = 185
+positive = 4 negative = 0
+index = 186
+positive = 7 negative = 1
+index = 187
+positive = 7 negative = 0
+index = 188
+positive = 3 negative = 1
+index = 189
+positive = 3 negative = 0
+index = 190
+positive = 2 negative = 0
+index = 191
+positive = 11 negative = 3
+index = 192
+positive = 4 negative = 0
+index = 193
+positive = 6 negative = 0
+index = 194
+positive = 5 negative = 0
+index = 195
+positive = 1 negative = 0
+index = 196
+positive = 7 negative = 4
+index = 197
+positive = 0 negative = 0
+index = 198
+positive = 1 negative = 1
+index = 199
+positive = 3 negative = 0
+index = 200
+positive = 2 negative = 0
+index = 201
+positive = 2 negative = 0
+index = 202
+positive = 2 negative = 0
+index = 203
+positive = 3 negative = 0
+index = 204
+positive = 0 negative = 0
+index = 205
+positive = 0 negative = 0
+index = 206
+positive = 4 negative = 3
+index = 207
+positive = 2 negative = 0
+index = 208
+positive = 2 negative = 1
+index = 209
+positive = 0 negative = 2
+index = 210
+positive = 3 negative = 0
+index = 211
+positive = 6 negative = 0
+index = 212
+positive = 3 negative = 0
+index = 213
+positive = 5 negative = 0
+index = 214
+positive = 1 negative = 0
+index = 215
+positive = 2 negative = 0
+index = 216
+positive = 4 negative = 0
+index = 217
+positive = 2 negative = 0
+index = 218
+positive = 2 negative = 0
+index = 219
+positive = 1 negative = 0
+index = 220
+positive = 4 negative = 0
+index = 221
+positive = 0 negative = 0
+index = 222
+positive = 2 negative = 0
+index = 223
+positive = 2 negative = 0
+index = 224
+positive = 2 negative = 0
+index = 225
+positive = 1 negative = 0
+index = 226
+positive = 0 negative = 0
+index = 227
+positive = 1 negative = 0
+index = 228
+positive = 2 negative = 0
+index = 229
+positive = 1 negative = 0
+index = 230
+positive = 1 negative = 0
+index = 231
+positive = 1 negative = 1
+index = 232
+positive = 4 negative = 0
+index = 233
+positive = 0 negative = 0
+index = 234
+positive = 8 negative = 0
+index = 235
+positive = 1 negative = 0
+index = 236
+positive = 1 negative = 0
+index = 237
+positive = 0 negative = 0
+index = 238
+positive = 0 negative = 1
+index = 239
+positive = 1 negative = 0
+index = 240
+positive = 2 negative = 1
+index = 241
+positive = 2 negative = 0
+index = 242
+positive = 0 negative = 0
+index = 243
+positive = 3 negative = 1
+index = 244
+positive = 3 negative = 0
+index = 245
+positive = 5 negative = 3
+index = 246
+positive = 6 negative = 0
+index = 247
+positive = 3 negative = 1
+index = 248
+positive = 3 negative = 0
+index = 249
+positive = 4 negative = 3
+index = 250
+positive = 2 negative = 0
+index = 251
+positive = 2 negative = 0
+index = 252
+positive = 4 negative = 0
+index = 253
+positive = 6 negative = 4
+index = 254
+positive = 2 negative = 0
+index = 255
+positive = 3 negative = 0
+index = 256
+positive = 0 negative = 0
+index = 257
+positive = 3 negative = 1
+index = 258
+positive = 4 negative = 0
+index = 259
+positive = 2 negative = 0
+index = 260
+positive = 3 negative = 0
+index = 261
+positive = 3 negative = 0
+index = 262
+positive = 3 negative = 0
+index = 263
+positive = 3 negative = 0
+index = 264
+positive = 4 negative = 0
+index = 265
+positive = 2 negative = 0
+index = 266
+positive = 3 negative = 0
+index = 267
+positive = 3 negative = 0
+index = 268
+positive = 0 negative = 1
+index = 269
+positive = 6 negative = 3
+index = 270
+positive = 5 negative = 0
+index = 271
+positive = 2 negative = 0
+index = 272
+positive = 12 negative = 3
+index = 273
+positive = 3 negative = 1
+index = 274
+positive = 3 negative = 0
+index = 275
+positive = 2 negative = 0
+index = 276
+positive = 0 negative = 0
+index = 277
+positive = 2 negative = 1
+index = 278
+positive = 0 negative = 1
+index = 279
+positive = 7 negative = 1
+index = 280
+positive = 0 negative = 1
+index = 281
+positive = 1 negative = 1
+index = 282
+positive = 2 negative = 0
+index = 283
+positive = 6 negative = 0
+index = 284
+positive = 4 negative = 0
+index = 285
+positive = 4 negative = 0
+index = 286
+positive = 14 negative = 3
+index = 287
+positive = 1 negative = 1
+index = 288
+positive = 1 negative = 0
+index = 289
+positive = 1 negative = 0
+index = 290
+positive = 4 negative = 0
+index = 291
+positive = 3 negative = 2
+index = 292
+positive = 0 negative = 0
+index = 293
+positive = 2 negative = 0
+index = 294
+positive = 0 negative = 0
+index = 295
+positive = 4 negative = 0
+index = 296
+positive = 1 negative = 0
+index = 297
+positive = 0 negative = 0
+index = 298
+positive = 0 negative = 0
+index = 299
+positive = 2 negative = 1
+index = 300
+positive = 6 negative = 3
+index = 301
+positive = 6 negative = 1
+index = 302
+positive = 2 negative = 0
+index = 303
+positive = 3 negative = 0
+index = 304
+positive = 1 negative = 1
+index = 305
+positive = 0 negative = 0
+index = 306
+positive = 2 negative = 0
+index = 307
+positive = 3 negative = 1
+index = 308
+positive = 0 negative = 1
+index = 309
+positive = 0 negative = 0
+index = 310
+positive = 3 negative = 0
+index = 311
+positive = 1 negative = 0
+index = 312
+positive = 2 negative = 0
+index = 313
+positive = 1 negative = 0
+index = 314
+positive = 1 negative = 0
+index = 315
+positive = 3 negative = 0
+index = 316
+positive = 0 negative = 1
+index = 317
+positive = 2 negative = 1
+index = 318
+positive = 1 negative = 0
+index = 319
+positive = 0 negative = 1
+index = 320
+positive = 0 negative = 0
+index = 321
+positive = 0 negative = 0
+index = 322
+positive = 2 negative = 0
+index = 323
+positive = 0 negative = 1
+index = 324
+positive = 0 negative = 0
+index = 325
+positive = 0 negative = 1
+index = 326
+positive = 6 negative = 2
+index = 327
+positive = 0 negative = 0
+index = 328
+positive = 3 negative = 0
+index = 329
+positive = 0 negative = 0
+index = 330
+positive = 3 negative = 2
+index = 331
+positive = 4 negative = 0
+index = 332
+positive = 5 negative = 1
+index = 333
+positive = 6 negative = 1
+index = 334
+positive = 1 negative = 1
+index = 335
+positive = 4 negative = 2
+index = 336
+positive = 1 negative = 0
+index = 337
+positive = 4 negative = 0
+index = 338
+positive = 4 negative = 0
+index = 339
+positive = 2 negative = 0
+index = 340
+positive = 1 negative = 0
+index = 341
+positive = 1 negative = 1
+index = 342
+positive = 0 negative = 0
+index = 343
+positive = 2 negative = 0
+index = 344
+positive = 0 negative = 0
+index = 345
+positive = 0 negative = 0
+index = 346
+positive = 1 negative = 0
+index = 347
+positive = 0 negative = 0
+index = 348
+positive = 1 negative = 0
+index = 349
+positive = 3 negative = 0
+index = 350
+positive = 2 negative = 0
+index = 351
+positive = 7 negative = 0
+index = 352
+positive = 0 negative = 0
+index = 353
+positive = 4 negative = 0
+index = 354
+positive = 4 negative = 0
+index = 355
+positive = 3 negative = 1
+index = 356
+positive = 5 negative = 0
+index = 357
+positive = 5 negative = 0
+index = 358
+positive = 1 negative = 0
+index = 359
+positive = 4 negative = 0
+index = 360
+positive = 11 negative = 2
+index = 361
+positive = 0 negative = 0
+index = 362
+positive = 6 negative = 1
+index = 363
+positive = 4 negative = 0
+index = 364
+positive = 3 negative = 2
+index = 365
+positive = 0 negative = 0
+index = 366
+positive = 8 negative = 0
+index = 367
+positive = 4 negative = 1
+index = 368
+positive = 4 negative = 0
+index = 369
+positive = 1 negative = 0
+index = 370
+positive = 1 negative = 0
+index = 371
+positive = 2 negative = 0
+index = 372
+positive = 5 negative = 0
+index = 373
+positive = 3 negative = 0
+index = 374
+positive = 3 negative = 0
+index = 375
+positive = 1 negative = 0
+index = 376
+positive = 3 negative = 2
+index = 377
+positive = 3 negative = 0
+index = 378
+positive = 2 negative = 1
+index = 379
+positive = 4 negative = 0
+index = 380
+positive = 1 negative = 0
+index = 381
+positive = 1 negative = 2
+index = 382
+positive = 0 negative = 1
+index = 383
+positive = 2 negative = 0
+index = 384
+positive = 5 negative = 0
+index = 385
+positive = 2 negative = 1
+index = 386
+positive = 2 negative = 0
+index = 387
+positive = 2 negative = 0
+index = 388
+positive = 2 negative = 0
+index = 389
+positive = 0 negative = 0
+index = 390
+positive = 2 negative = 0
+index = 391
+positive = 2 negative = 0
+index = 392
+positive = 2 negative = 0
+index = 393
+positive = 1 negative = 0
+index = 394
+positive = 5 negative = 2
+index = 395
+positive = 0 negative = 1
+index = 396
+positive = 1 negative = 0
+index = 397
+positive = 1 negative = 0
+index = 398
+positive = 8 negative = 0
+index = 399
+positive = 0 negative = 0
+index = 400
+positive = 5 negative = 0
+index = 401
+positive = 2 negative = 0
+index = 402
+positive = 1 negative = 1
+index = 403
+positive = 3 negative = 0
+index = 404
+positive = 5 negative = 0
+index = 405
+positive = 5 negative = 0
+index = 406
+positive = 3 negative = 0
+index = 407
+positive = 2 negative = 0
+index = 408
+positive = 13 negative = 0
+index = 409
+positive = 2 negative = 0
+index = 410
+positive = 4 negative = 0
+index = 411
+positive = 5 negative = 0
+index = 412
+positive = 4 negative = 1
+index = 413
+positive = 2 negative = 0
+index = 414
+positive = 1 negative = 1
+index = 415
+positive = 2 negative = 0
+index = 416
+positive = 1 negative = 0
+index = 417
+positive = 0 negative = 0
+index = 418
+positive = 0 negative = 0
+index = 419
+positive = 2 negative = 0
+index = 420
+positive = 1 negative = 1
+index = 421
+positive = 3 negative = 2
+index = 422
+positive = 2 negative = 0
+index = 423
+positive = 4 negative = 0
+index = 424
+positive = 1 negative = 0
+index = 425
+positive = 6 negative = 0
+index = 426
+positive = 0 negative = 2
+index = 427
+positive = 2 negative = 0
+index = 428
+positive = 0 negative = 0
+index = 429
+positive = 3 negative = 0
+index = 430
+positive = 3 negative = 0
+index = 431
+positive = 0 negative = 1
+index = 432
+positive = 2 negative = 0
+index = 433
+positive = 0 negative = 2
+index = 434
+positive = 0 negative = 0
+index = 435
+positive = 1 negative = 0
+index = 436
+positive = 4 negative = 0
+index = 437
+positive = 2 negative = 1
+index = 438
+positive = 2 negative = 0
+index = 439
+positive = 2 negative = 1
+index = 440
+positive = 3 negative = 0
+index = 441
+positive = 3 negative = 0
+index = 442
+positive = 1 negative = 1
+index = 443
+positive = 2 negative = 0
+index = 444
+positive = 3 negative = 0
+index = 445
+positive = 4 negative = 0
+index = 446
+positive = 1 negative = 0
+index = 447
+positive = 2 negative = 0
+index = 448
+positive = 0 negative = 1
+index = 449
+positive = 9 negative = 0
+index = 450
+positive = 0 negative = 0
+index = 451
+positive = 5 negative = 1
+index = 452
+positive = 3 negative = 0
+index = 453
+positive = 5 negative = 3
+index = 454
+positive = 1 negative = 0
+index = 455
+positive = 25 negative = 19
+index = 456
+positive = 3 negative = 2
+index = 457
+positive = 3 negative = 0
+index = 458
+positive = 0 negative = 1
+index = 459
+positive = 3 negative = 0
+index = 460
+positive = 0 negative = 0
+index = 461
+positive = 5 negative = 0
+index = 462
+positive = 0 negative = 1
+index = 463
+positive = 2 negative = 1
+index = 464
+positive = 2 negative = 0
+index = 465
+positive = 3 negative = 2
+index = 466
+positive = 1 negative = 0
+index = 467
+positive = 3 negative = 1
+index = 468
+positive = 0 negative = 1
+index = 469
+positive = 3 negative = 2
+index = 470
+positive = 6 negative = 0
+index = 471
+positive = 7 negative = 0
+index = 472
+positive = 3 negative = 0
+index = 473
+positive = 2 negative = 0
+index = 474
+positive = 4 negative = 0
+index = 475
+positive = 0 negative = 1
+index = 476
+positive = 6 negative = 0
+index = 477
+positive = 3 negative = 0
+index = 478
+positive = 3 negative = 0
+index = 479
+positive = 8 negative = 1
+index = 480
+positive = 4 negative = 0
+index = 481
+positive = 0 negative = 0
+index = 482
+positive = 5 negative = 0
+index = 483
+positive = 0 negative = 0
+index = 484
+positive = 2 negative = 1
+index = 485
+positive = 1 negative = 0
+index = 486
+positive = 2 negative = 0
+index = 487
+positive = 3 negative = 0
+index = 488
+positive = 3 negative = 0
+index = 489
+positive = 0 negative = 0
+index = 490
+positive = 4 negative = 0
+index = 491
+positive = 5 negative = 1
+index = 492
+positive = 0 negative = 1
+index = 493
+positive = 1 negative = 0
+index = 494
+positive = 0 negative = 0
+index = 495
+positive = 4 negative = 0
+index = 496
+positive = 3 negative = 0
+index = 497
+positive = 1 negative = 1
+index = 498
+positive = 3 negative = 1
+index = 499
+positive = 3 negative = 5
+index = 500
+positive = 1 negative = 0
+index = 501
+positive = 0 negative = 1
+index = 502
+positive = 1 negative = 0
+index = 503
+positive = 7 negative = 3
+index = 504
+positive = 4 negative = 2
+index = 505
+positive = 3 negative = 0
+index = 506
+positive = 11 negative = 0
+index = 507
+positive = 3 negative = 0
+index = 508
+positive = 2 negative = 1
+index = 509
+positive = 4 negative = 3
+index = 510
+positive = 2 negative = 4
+index = 511
+positive = 4 negative = 1
+index = 512
+positive = 1 negative = 1
+index = 513
+positive = 0 negative = 3
+index = 514
+positive = 1 negative = 1
+index = 515
+positive = 2 negative = 3
+index = 516
+positive = 5 negative = 0
+index = 517
+positive = 3 negative = 1
+index = 518
+positive = 11 negative = 1
+index = 519
+positive = 2 negative = 0
+index = 520
+positive = 2 negative = 3
+index = 521
+positive = 7 negative = 1
+index = 522
+positive = 4 negative = 1
+index = 523
+positive = 2 negative = 1
+index = 524
+positive = 3 negative = 1
+index = 525
+positive = 3 negative = 0
+index = 526
+positive = 1 negative = 1
+index = 527
+positive = 6 negative = 0
+index = 528
+positive = 6 negative = 3
+index = 529
+positive = 0 negative = 1
+index = 530
+positive = 10 negative = 2
+index = 531
+positive = 1 negative = 0
+index = 532
+positive = 1 negative = 0
+index = 533
+positive = 2 negative = 0
+index = 534
+positive = 3 negative = 0
+index = 535
+positive = 4 negative = 0
+index = 536
+positive = 3 negative = 2
+index = 537
+positive = 2 negative = 0
+index = 538
+positive = 4 negative = 3
+index = 539
+positive = 7 negative = 2
+index = 540
+positive = 3 negative = 2
+index = 541
+positive = 2 negative = 2
+index = 542
+positive = 1 negative = 1
+index = 543
+positive = 0 negative = 0
+index = 544
+positive = 5 negative = 0
+index = 545
+positive = 5 negative = 0
+index = 546
+positive = 4 negative = 0
+index = 547
+positive = 5 negative = 0
+index = 548
+positive = 0 negative = 0
+index = 549
+positive = 1 negative = 1
+index = 550
+positive = 3 negative = 1
+index = 551
+positive = 4 negative = 0
+index = 552
+positive = 0 negative = 3
+index = 553
+positive = 1 negative = 2
+index = 554
+positive = 4 negative = 0
+index = 555
+positive = 1 negative = 0
+index = 556
+positive = 2 negative = 0
+index = 557
+positive = 3 negative = 0
+index = 558
+positive = 0 negative = 2
+index = 559
+positive = 6 negative = 1
+index = 560
+positive = 3 negative = 1
+index = 561
+positive = 6 negative = 2
+index = 562
+positive = 5 negative = 1
+index = 563
+positive = 5 negative = 1
+index = 564
+positive = 5 negative = 1
+index = 565
+positive = 3 negative = 1
+index = 566
+positive = 3 negative = 2
+index = 567
+positive = 5 negative = 0
+index = 568
+positive = 2 negative = 0
+index = 569
+positive = 2 negative = 0
+index = 570
+positive = 2 negative = 1
+index = 571
+positive = 1 negative = 0
+index = 572
+positive = 0 negative = 0
+index = 573
+positive = 4 negative = 0
+index = 574
+positive = 4 negative = 0
+index = 575
+positive = 0 negative = 1
+index = 576
+positive = 7 negative = 2
+index = 577
+positive = 2 negative = 2
+index = 578
+positive = 3 negative = 0
+index = 579
+positive = 1 negative = 2
+index = 580
+positive = 1 negative = 1
+index = 581
+positive = 4 negative = 1
+index = 582
+positive = 2 negative = 0
+index = 583
+positive = 3 negative = 1
+index = 584
+positive = 3 negative = 0
+index = 585
+positive = 4 negative = 2
+index = 586
+positive = 1 negative = 0
+index = 587
+positive = 2 negative = 0
+index = 588
+positive = 1 negative = 0
+index = 589
+positive = 5 negative = 0
+index = 590
+positive = 9 negative = 1
+index = 591
+positive = 3 negative = 2
+index = 592
+positive = 0 negative = 1
+index = 593
+positive = 1 negative = 4
+index = 594
+positive = 0 negative = 0
+index = 595
+positive = 10 negative = 1
+index = 596
+positive = 3 negative = 5
+index = 597
+positive = 1 negative = 2
+index = 598
+positive = 1 negative = 1
+index = 599
+positive = 7 negative = 4
+index = 600
+positive = 6 negative = 0
+index = 601
+positive = 3 negative = 0
+index = 602
+positive = 3 negative = 4
+index = 603
+positive = 2 negative = 1
+index = 604
+positive = 0 negative = 0
+index = 605
+positive = 1 negative = 1
+index = 606
+positive = 6 negative = 0
+index = 607
+positive = 2 negative = 1
+index = 608
+positive = 2 negative = 1
+index = 609
+positive = 3 negative = 0
+index = 610
+positive = 3 negative = 2
+index = 611
+positive = 2 negative = 1
+index = 612
+positive = 4 negative = 1
+index = 613
+positive = 1 negative = 1
+index = 614
+positive = 1 negative = 1
+index = 615
+positive = 1 negative = 0
+index = 616
+positive = 2 negative = 0
+index = 617
+positive = 0 negative = 0
+index = 618
+positive = 0 negative = 0
+index = 619
+positive = 5 negative = 5
+index = 620
+positive = 1 negative = 0
+index = 621
+positive = 2 negative = 0
+index = 622
+positive = 5 negative = 3
+index = 623
+positive = 1 negative = 0
+index = 624
+positive = 2 negative = 0
+index = 625
+positive = 6 negative = 0
+index = 626
+positive = 1 negative = 0
+index = 627
+positive = 5 negative = 2
+index = 628
+positive = 1 negative = 2
+index = 629
+positive = 4 negative = 0
+index = 630
+positive = 0 negative = 0
+index = 631
+positive = 2 negative = 1
+index = 632
+positive = 1 negative = 0
+index = 633
+positive = 1 negative = 1
+index = 634
+positive = 3 negative = 2
+index = 635
+positive = 2 negative = 1
+index = 636
+positive = 3 negative = 0
+index = 637
+positive = 1 negative = 0
+index = 638
+positive = 2 negative = 0
+index = 639
+positive = 2 negative = 0
+index = 640
+positive = 3 negative = 0
+index = 641
+positive = 6 negative = 0
+index = 642
+positive = 2 negative = 0
+index = 643
+positive = 1 negative = 0
+index = 644
+positive = 2 negative = 0
+index = 645
+positive = 0 negative = 1
+index = 646
+positive = 1 negative = 0
+index = 647
+positive = 0 negative = 1
+index = 648
+positive = 3 negative = 0
+index = 649
+positive = 1 negative = 1
+index = 650
+positive = 7 negative = 0
+index = 651
+positive = 1 negative = 0
+index = 652
+positive = 3 negative = 0
+index = 653
+positive = 0 negative = 0
+index = 654
+positive = 4 negative = 2
+index = 655
+positive = 5 negative = 1
+index = 656
+positive = 1 negative = 0
+index = 657
+positive = 1 negative = 0
+index = 658
+positive = 2 negative = 0
+index = 659
+positive = 0 negative = 0
+index = 660
+positive = 3 negative = 0
+index = 661
+positive = 3 negative = 0
+index = 662
+positive = 1 negative = 0
+index = 663
+positive = 5 negative = 0
+index = 664
+positive = 2 negative = 0
+index = 665
+positive = 1 negative = 0
+index = 666
+positive = 2 negative = 0
+index = 667
+positive = 3 negative = 0
+index = 668
+positive = 2 negative = 0
+index = 669
+positive = 0 negative = 2
+index = 670
+positive = 3 negative = 0
+index = 671
+positive = 5 negative = 1
+index = 672
+positive = 1 negative = 0
+index = 673
+positive = 1 negative = 1
+index = 674
+positive = 0 negative = 1
+index = 675
+positive = 7 negative = 0
+index = 676
+positive = 2 negative = 1
+index = 677
+positive = 2 negative = 0
+index = 678
+positive = 1 negative = 0
+index = 679
+positive = 4 negative = 1
+index = 680
+positive = 2 negative = 2
+index = 681
+positive = 0 negative = 0
+index = 682
+positive = 1 negative = 0
+index = 683
+positive = 3 negative = 0
+index = 684
+positive = 0 negative = 1
+index = 685
+positive = 2 negative = 0
+index = 686
+positive = 4 negative = 0
+index = 687
+positive = 10 negative = 0
+index = 688
+positive = 10 negative = 0
+index = 689
+positive = 2 negative = 0
+index = 690
+positive = 3 negative = 1
+index = 691
+positive = 4 negative = 0
+index = 692
+positive = 0 negative = 0
+index = 693
+positive = 2 negative = 0
+index = 694
+positive = 5 negative = 3
+index = 695
+positive = 8 negative = 0
+index = 696
+positive = 4 negative = 0
+index = 697
+positive = 9 negative = 2
+index = 698
+positive = 4 negative = 1
+index = 699
+positive = 0 negative = 0
+index = 700
+positive = 3 negative = 2
+index = 701
+positive = 7 negative = 0
+index = 702
+positive = 4 negative = 1
+index = 703
+positive = 2 negative = 0
+index = 704
+positive = 11 negative = 2
+index = 705
+positive = 8 negative = 1
+index = 706
+positive = 0 negative = 0
+index = 707
+positive = 0 negative = 0
+index = 708
+positive = 0 negative = 0
+index = 709
+positive = 0 negative = 0
+index = 710
+positive = 12 negative = 1
+index = 711
+positive = 3 negative = 0
+index = 712
+positive = 7 negative = 0
+index = 713
+positive = 2 negative = 0
+index = 714
+positive = 2 negative = 0
+index = 715
+positive = 0 negative = 0
+index = 716
+positive = 2 negative = 2
+index = 717
+positive = 0 negative = 0
+index = 718
+positive = 0 negative = 0
+index = 719
+positive = 6 negative = 0
+index = 720
+positive = 7 negative = 1
+index = 721
+positive = 1 negative = 0
+index = 722
+positive = 0 negative = 0
+index = 723
+positive = 3 negative = 0
+index = 724
+positive = 1 negative = 0
+index = 725
+positive = 2 negative = 0
+index = 726
+positive = 2 negative = 0
+index = 727
+positive = 0 negative = 0
+index = 728
+positive = 1 negative = 0
+index = 729
+positive = 0 negative = 0
+index = 730
+positive = 0 negative = 0
+index = 731
+positive = 4 negative = 0
+index = 732
+positive = 8 negative = 0
+index = 733
+positive = 9 negative = 2
+index = 734
+positive = 0 negative = 0
+index = 735
+positive = 2 negative = 1
+index = 736
+positive = 1 negative = 0
+index = 737
+positive = 4 negative = 0
+index = 738
+positive = 0 negative = 0
+index = 739
+positive = 3 negative = 2
+index = 740
+positive = 2 negative = 0
+index = 741
+positive = 5 negative = 1
+index = 742
+positive = 3 negative = 0
+index = 743
+positive = 4 negative = 2
+index = 744
+positive = 10 negative = 0
+index = 745
+positive = 0 negative = 0
+index = 746
+positive = 5 negative = 1
+index = 747
+positive = 3 negative = 0
+index = 748
+positive = 3 negative = 0
+index = 749
+positive = 4 negative = 0
+index = 750
+positive = 0 negative = 0
+index = 751
+positive = 4 negative = 0
+index = 752
+positive = 8 negative = 0
+index = 753
+positive = 4 negative = 6
+index = 754
+positive = 11 negative = 1
+index = 755
+positive = 3 negative = 1
+index = 756
+positive = 6 negative = 2
+index = 757
+positive = 4 negative = 3
+index = 758
+positive = 7 negative = 3
+index = 759
+positive = 5 negative = 0
+index = 760
+positive = 15 negative = 4
+index = 761
+positive = 1 negative = 1
+index = 762
+positive = 0 negative = 0
+index = 763
+positive = 1 negative = 0
+index = 764
+positive = 0 negative = 0
+index = 765
+positive = 2 negative = 0
+index = 766
+positive = 0 negative = 0
+index = 767
+positive = 1 negative = 0
+index = 768
+positive = 1 negative = 0
+index = 769
+positive = 0 negative = 0
+index = 770
+positive = 4 negative = 3
+index = 771
+positive = 2 negative = 1
+index = 772
+positive = 2 negative = 0
+index = 773
+positive = 2 negative = 2
+index = 774
+positive = 3 negative = 0
+index = 775
+positive = 1 negative = 0
+index = 776
+positive = 7 negative = 0
+index = 777
+positive = 4 negative = 0
+index = 778
+positive = 3 negative = 0
+index = 779
+positive = 0 negative = 0
+index = 780
+positive = 0 negative = 2
+index = 781
+positive = 3 negative = 0
+index = 782
+positive = 0 negative = 0
+index = 783
+positive = 1 negative = 0
+index = 784
+positive = 4 negative = 0
+index = 785
+positive = 5 negative = 0
+index = 786
+positive = 7 negative = 0
+index = 787
+positive = 5 negative = 0
+index = 788
+positive = 2 negative = 0
+index = 789
+positive = 4 negative = 0
+index = 790
+positive = 3 negative = 1
+index = 791
+positive = 2 negative = 0
+index = 792
+positive = 4 negative = 0
+index = 793
+positive = 4 negative = 1
+index = 794
+positive = 7 negative = 1
+index = 795
+positive = 1 negative = 1
+index = 796
+positive = 4 negative = 0
+index = 797
+positive = 3 negative = 0
+index = 798
+positive = 2 negative = 0
+index = 799
+positive = 9 negative = 1
+index = 800
+positive = 0 negative = 0
+index = 801
+positive = 2 negative = 0
+index = 802
+positive = 13 negative = 17
+index = 803
+positive = 1 negative = 3
+index = 804
+positive = 1 negative = 1
+index = 805
+positive = 2 negative = 0
+index = 806
+positive = 0 negative = 1
+index = 807
+positive = 2 negative = 0
+index = 808
+positive = 0 negative = 1
+index = 809
+positive = 0 negative = 0
+index = 810
+positive = 2 negative = 0
+index = 811
+positive = 1 negative = 0
+index = 812
+positive = 6 negative = 0
+index = 813
+positive = 1 negative = 0
+index = 814
+positive = 1 negative = 0
+index = 815
+positive = 1 negative = 0
+index = 816
+positive = 9 negative = 0
+index = 817
+positive = 0 negative = 0
+index = 818
+positive = 0 negative = 1
+index = 819
+positive = 2 negative = 0
+index = 820
+positive = 3 negative = 1
+index = 821
+positive = 0 negative = 0
+index = 822
+positive = 1 negative = 0
+index = 823
+positive = 1 negative = 0
+index = 824
+positive = 2 negative = 0
+index = 825
+positive = 1 negative = 1
+index = 826
+positive = 4 negative = 0
+index = 827
+positive = 0 negative = 0
+index = 828
+positive = 6 negative = 3
+index = 829
+positive = 2 negative = 0
+index = 830
+positive = 0 negative = 0
+index = 831
+positive = 2 negative = 0
+index = 832
+positive = 1 negative = 0
+index = 833
+positive = 0 negative = 0
+index = 834
+positive = 3 negative = 0
+index = 835
+positive = 1 negative = 0
+index = 836
+positive = 1 negative = 0
+index = 837
+positive = 0 negative = 0
+index = 838
+positive = 0 negative = 0
+index = 839
+positive = 1 negative = 3
+index = 840
+positive = 1 negative = 0
+index = 841
+positive = 0 negative = 0
+index = 842
+positive = 3 negative = 0
+index = 843
+positive = 2 negative = 3
+index = 844
+positive = 3 negative = 0
+index = 845
+positive = 1 negative = 0
+index = 846
+positive = 4 negative = 1
+index = 847
+positive = 2 negative = 1
+index = 848
+positive = 2 negative = 1
+index = 849
+positive = 6 negative = 1
+index = 850
+positive = 0 negative = 0
+index = 851
+positive = 0 negative = 0
+index = 852
+positive = 0 negative = 1
+index = 853
+positive = 2 negative = 0
+index = 854
+positive = 0 negative = 0
+index = 855
+positive = 1 negative = 1
+index = 856
+positive = 1 negative = 1
+index = 857
+positive = 3 negative = 0
+index = 858
+positive = 4 negative = 1
+index = 859
+positive = 4 negative = 1
+index = 860
+positive = 6 negative = 0
+index = 861
+positive = 1 negative = 0
+index = 862
+positive = 2 negative = 0
+index = 863
+positive = 1 negative = 0
+index = 864
+positive = 2 negative = 0
+index = 865
+positive = 2 negative = 1
+index = 866
+positive = 18 negative = 3
+index = 867
+positive = 1 negative = 1
+index = 868
+positive = 0 negative = 0
+index = 869
+positive = 1 negative = 0
+index = 870
+positive = 13 negative = 22
+index = 871
+positive = 6 negative = 3
+index = 872
+positive = 0 negative = 1
+index = 873
+positive = 3 negative = 1
+index = 874
+positive = 3 negative = 2
+index = 875
+positive = 3 negative = 0
+index = 876
+positive = 2 negative = 2
+index = 877
+positive = 1 negative = 0
+index = 878
+positive = 0 negative = 2
+index = 879
+positive = 3 negative = 2
+index = 880
+positive = 0 negative = 2
+index = 881
+positive = 6 negative = 1
+index = 882
+positive = 4 negative = 1
+index = 883
+positive = 2 negative = 1
+index = 884
+positive = 5 negative = 1
+index = 885
+positive = 1 negative = 1
+index = 886
+positive = 3 negative = 1
+index = 887
+positive = 3 negative = 1
+index = 888
+positive = 1 negative = 0
+index = 889
+positive = 3 negative = 0
+index = 890
+positive = 2 negative = 0
+index = 891
+positive = 0 negative = 0
+index = 892
+positive = 3 negative = 4
+index = 893
+positive = 0 negative = 0
+index = 894
+positive = 10 negative = 3
+index = 895
+positive = 2 negative = 4
+index = 896
+positive = 1 negative = 0
+index = 897
+positive = 6 negative = 2
+index = 898
+positive = 1 negative = 3
+index = 899
+positive = 1 negative = 0
+index = 900
+positive = 0 negative = 0
+index = 901
+positive = 0 negative = 0
+index = 902
+positive = 3 negative = 0
+index = 903
+positive = 2 negative = 2
+index = 904
+positive = 4 negative = 1
+index = 905
+positive = 0 negative = 0
+index = 906
+positive = 0 negative = 0
+index = 907
+positive = 1 negative = 0
+index = 908
+positive = 0 negative = 0
+index = 909
+positive = 1 negative = 0
+index = 910
+positive = 0 negative = 0
+index = 911
+positive = 0 negative = 0
+index = 912
+positive = 5 negative = 0
+index = 913
+positive = 4 negative = 0
+index = 914
+positive = 2 negative = 0
+index = 915
+positive = 10 negative = 0
+index = 916
+positive = 4 negative = 0
+index = 917
+positive = 0 negative = 0
+index = 918
+positive = 5 negative = 1
+index = 919
+positive = 6 negative = 0
+index = 920
+positive = 1 negative = 0
+index = 921
+positive = 3 negative = 0
+index = 922
+positive = 2 negative = 2
+index = 923
+positive = 1 negative = 0
+index = 924
+positive = 2 negative = 2
+index = 925
+positive = 0 negative = 0
+index = 926
+positive = 1 negative = 0
+index = 927
+positive = 2 negative = 0
+index = 928
+positive = 4 negative = 0
+index = 929
+positive = 0 negative = 1
+index = 930
+positive = 4 negative = 1
+index = 931
+positive = 2 negative = 0
+index = 932
+positive = 1 negative = 1
+index = 933
+positive = 0 negative = 2
+index = 934
+positive = 6 negative = 0
+index = 935
+positive = 0 negative = 1
+index = 936
+positive = 0 negative = 1
+index = 937
+positive = 0 negative = 0
+index = 938
+positive = 1 negative = 0
+index = 939
+positive = 1 negative = 1
+index = 940
+positive = 2 negative = 0
+index = 941
+positive = 2 negative = 0
+index = 942
+positive = 1 negative = 0
+index = 943
+positive = 2 negative = 1
+index = 944
+positive = 1 negative = 0
+index = 945
+positive = 2 negative = 0
+index = 946
+positive = 1 negative = 0
+index = 947
+positive = 3 negative = 0
+index = 948
+positive = 4 negative = 0
+index = 949
+positive = 0 negative = 1
+index = 950
+positive = 0 negative = 0
+index = 951
+positive = 3 negative = 0
+index = 952
+positive = 2 negative = 0
+index = 953
+positive = 0 negative = 0
+index = 954
+positive = 4 negative = 0
+index = 955
+positive = 3 negative = 0
+index = 956
+positive = 2 negative = 1
+index = 957
+positive = 3 negative = 1
+index = 958
+positive = 0 negative = 0
+index = 959
+positive = 8 negative = 0
+index = 960
+positive = 5 negative = 0
+index = 961
+positive = 3 negative = 1
+index = 962
+positive = 5 negative = 0
+index = 963
+positive = 1 negative = 0
+index = 964
+positive = 0 negative = 0
+index = 965
+positive = 1 negative = 0
+index = 966
+positive = 0 negative = 0
+index = 967
+positive = 2 negative = 0
+index = 968
+positive = 1 negative = 0
+index = 969
+positive = 0 negative = 0
+index = 970
+positive = 0 negative = 0
+index = 971
+positive = 0 negative = 0
+index = 972
+positive = 1 negative = 0
+index = 973
+positive = 1 negative = 0
+index = 974
+positive = 1 negative = 0
+index = 975
+positive = 3 negative = 0
+index = 976
+positive = 0 negative = 0
+index = 977
+positive = 1 negative = 0
+index = 978
+positive = 3 negative = 0
+index = 979
+positive = 2 negative = 0
+index = 980
+positive = 0 negative = 0
+index = 981
+positive = 3 negative = 0
+index = 982
+positive = 0 negative = 0
+index = 983
+positive = 1 negative = 1
+index = 984
+positive = 2 negative = 1
+index = 985
+positive = 0 negative = 0
+index = 986
+positive = 0 negative = 0
+index = 987
+positive = 0 negative = 0
+index = 988
+positive = 1 negative = 1
+index = 989
+positive = 1 negative = 0
+index = 990
+positive = 1 negative = 0
+index = 991
+positive = 0 negative = 0
+index = 992
+positive = 1 negative = 1
+index = 993
+positive = 1 negative = 0
+index = 994
+positive = 1 negative = 0
+index = 995
+positive = 1 negative = 1
+index = 996
+positive = 0 negative = 0
+index = 997
+positive = 2 negative = 0
+index = 998
+positive = 0 negative = 0
+index = 999
+positive = 1 negative = 0
+index = 1000
+positive = 1 negative = 0
+index = 1001
+positive = 1 negative = 0
+index = 1002
+positive = 2 negative = 0
+index = 1003
+positive = 0 negative = 0
+index = 1004
+positive = 0 negative = 0
+index = 1005
+positive = 1 negative = 0
+index = 1006
+positive = 5 negative = 0
+index = 1007
+positive = 3 negative = 0
+index = 1008
+positive = 0 negative = 1
+index = 1009
+positive = 1 negative = 0
+index = 1010
+positive = 0 negative = 0
+index = 1011
+positive = 3 negative = 0
+index = 1012
+positive = 0 negative = 0
+index = 1013
+positive = 1 negative = 0
+index = 1014
+positive = 1 negative = 0
+index = 1015
+positive = 2 negative = 0
+index = 0
+positive = 3 negative = 0
+index = 1
+positive = 3 negative = 0
+index = 2
+positive = 8 negative = 0
+index = 3
+positive = 5 negative = 0
+index = 4
+positive = 5 negative = 0
+index = 5
+positive = 4 negative = 1
+index = 6
+positive = 0 negative = 1
+index = 7
+positive = 4 negative = 0
+index = 8
+positive = 14 negative = 0
+index = 9
+positive = 1 negative = 0
+index = 10
+positive = 1 negative = 0
+index = 11
+positive = 5 negative = 0
+index = 12
+positive = 4 negative = 2
+index = 13
+positive = 2 negative = 1
+index = 14
+positive = 5 negative = 0
+index = 15
+positive = 4 negative = 0
+index = 16
+positive = 5 negative = 0
+index = 17
+positive = 0 negative = 0
+index = 18
+positive = 2 negative = 2
+index = 19
+positive = 4 negative = 0
+index = 20
+positive = 5 negative = 0
+index = 21
+positive = 0 negative = 0
+index = 22
+positive = 0 negative = 0
+index = 23
+positive = 4 negative = 2
+index = 24
+positive = 7 negative = 0
+index = 25
+positive = 5 negative = 1
+index = 26
+positive = 2 negative = 0
+index = 27
+positive = 0 negative = 2
+index = 28
+positive = 4 negative = 0
+index = 29
+positive = 2 negative = 0
+index = 30
+positive = 1 negative = 0
+index = 31
+positive = 1 negative = 0
+index = 32
+positive = 2 negative = 0
+index = 33
+positive = 4 negative = 0
+index = 34
+positive = 1 negative = 0
+index = 35
+positive = 2 negative = 0
+index = 36
+positive = 1 negative = 0
+index = 37
+positive = 1 negative = 1
+index = 38
+positive = 0 negative = 0
+index = 39
+positive = 0 negative = 0
+index = 40
+positive = 2 negative = 2
+index = 41
+positive = 1 negative = 0
+index = 42
+positive = 2 negative = 0
+index = 43
+positive = 2 negative = 2
+index = 44
+positive = 0 negative = 0
+index = 45
+positive = 2 negative = 1
+index = 46
+positive = 3 negative = 0
+index = 47
+positive = 0 negative = 0
+index = 48
+positive = 2 negative = 0
+index = 49
+positive = 0 negative = 0
+index = 50
+positive = 1 negative = 0
+index = 51
+positive = 2 negative = 0
+index = 52
+positive = 1 negative = 0
+index = 53
+positive = 1 negative = 0
+index = 54
+positive = 2 negative = 0
+index = 55
+positive = 0 negative = 0
+index = 56
+positive = 3 negative = 0
+index = 57
+positive = 0 negative = 1
+index = 58
+positive = 3 negative = 1
+index = 59
+positive = 2 negative = 0
+index = 60
+positive = 3 negative = 0
+index = 61
+positive = 2 negative = 0
+index = 62
+positive = 0 negative = 0
+index = 63
+positive = 1 negative = 1
+index = 64
+positive = 1 negative = 0
+index = 65
+positive = 0 negative = 0
+index = 66
+positive = 3 negative = 0
+index = 67
+positive = 4 negative = 0
+index = 68
+positive = 2 negative = 3
+index = 69
+positive = 0 negative = 0
+index = 70
+positive = 1 negative = 0
+index = 71
+positive = 2 negative = 0
+index = 72
+positive = 2 negative = 0
+index = 73
+positive = 0 negative = 0
+index = 74
+positive = 0 negative = 0
+index = 75
+positive = 6 negative = 2
+index = 76
+positive = 2 negative = 0
+index = 77
+positive = 2 negative = 2
+index = 78
+positive = 1 negative = 0
+index = 79
+positive = 2 negative = 0
+index = 80
+positive = 0 negative = 0
+index = 81
+positive = 1 negative = 0
+index = 82
+positive = 2 negative = 1
+index = 83
+positive = 1 negative = 0
+index = 84
+positive = 1 negative = 0
+index = 85
+positive = 5 negative = 0
+index = 86
+positive = 5 negative = 0
+index = 87
+positive = 6 negative = 0
+index = 88
+positive = 4 negative = 0
+index = 89
+positive = 9 negative = 1
+index = 90
+positive = 6 negative = 0
+index = 91
+positive = 3 negative = 0
+index = 92
+positive = 2 negative = 0
+index = 93
+positive = 3 negative = 0
+index = 94
+positive = 4 negative = 0
+index = 95
+positive = 2 negative = 0
+index = 96
+positive = 2 negative = 0
+index = 97
+positive = 2 negative = 0
+index = 98
+positive = 1 negative = 0
+index = 99
+positive = 0 negative = 0
+index = 100
+positive = 4 negative = 2
+index = 101
+positive = 2 negative = 2
+index = 102
+positive = 3 negative = 0
+index = 103
+positive = 3 negative = 0
+index = 104
+positive = 3 negative = 0
+index = 105
+positive = 0 negative = 0
+index = 106
+positive = 1 negative = 0
+index = 107
+positive = 1 negative = 0
+index = 108
+positive = 4 negative = 0
+index = 109
+positive = 0 negative = 0
+index = 110
+positive = 1 negative = 0
+index = 111
+positive = 2 negative = 2
+index = 112
+positive = 5 negative = 1
+index = 113
+positive = 1 negative = 0
+index = 114
+positive = 2 negative = 1
+index = 115
+positive = 5 negative = 0
+index = 116
+positive = 4 negative = 3
+index = 117
+positive = 5 negative = 7
+index = 118
+positive = 0 negative = 0
+index = 119
+positive = 4 negative = 0
+index = 120
+positive = 4 negative = 0
+index = 121
+positive = 0 negative = 0
+index = 122
+positive = 2 negative = 0
+index = 123
+positive = 4 negative = 1
+index = 124
+positive = 6 negative = 0
+index = 125
+positive = 0 negative = 0
+index = 126
+positive = 1 negative = 1
+index = 127
+positive = 3 negative = 0
+index = 128
+positive = 0 negative = 0
+index = 129
+positive = 2 negative = 1
+index = 130
+positive = 3 negative = 0
+index = 131
+positive = 3 negative = 0
+index = 132
+positive = 3 negative = 1
+index = 133
+positive = 1 negative = 0
+index = 134
+positive = 1 negative = 0
+index = 135
+positive = 2 negative = 0
+index = 136
+positive = 3 negative = 1
+index = 137
+positive = 1 negative = 0
+index = 138
+positive = 2 negative = 0
+index = 139
+positive = 0 negative = 0
+index = 140
+positive = 1 negative = 0
+index = 141
+positive = 2 negative = 1
+index = 142
+positive = 6 negative = 1
+index = 143
+positive = 5 negative = 1
+index = 144
+positive = 1 negative = 1
+index = 145
+positive = 5 negative = 0
+index = 146
+positive = 7 negative = 0
+index = 147
+positive = 1 negative = 0
+index = 148
+positive = 1 negative = 0
+index = 149
+positive = 8 negative = 1
+index = 150
+positive = 0 negative = 0
+index = 151
+positive = 9 negative = 2
+index = 152
+positive = 1 negative = 0
+index = 153
+positive = 2 negative = 0
+index = 154
+positive = 2 negative = 0
+index = 155
+positive = 4 negative = 1
+index = 156
+positive = 1 negative = 1
+index = 157
+positive = 4 negative = 2
+index = 158
+positive = 4 negative = 5
+index = 159
+positive = 0 negative = 0
+index = 160
+positive = 10 negative = 2
+index = 161
+positive = 5 negative = 1
+index = 162
+positive = 3 negative = 0
+index = 163
+positive = 4 negative = 0
+index = 164
+positive = 4 negative = 0
+index = 165
+positive = 3 negative = 0
+index = 166
+positive = 9 negative = 3
+index = 167
+positive = 3 negative = 0
+index = 168
+positive = 5 negative = 0
+index = 169
+positive = 9 negative = 3
+index = 170
+positive = 3 negative = 0
+index = 171
+positive = 2 negative = 3
+index = 172
+positive = 6 negative = 0
+index = 173
+positive = 5 negative = 1
+index = 174
+positive = 2 negative = 1
+index = 175
+positive = 1 negative = 0
+index = 176
+positive = 0 negative = 0
+index = 177
+positive = 9 negative = 3
+index = 178
+positive = 3 negative = 1
+index = 179
+positive = 1 negative = 1
+index = 180
+positive = 1 negative = 1
+index = 181
+positive = 0 negative = 0
+index = 182
+positive = 1 negative = 0
+index = 183
+positive = 1 negative = 0
+index = 184
+positive = 2 negative = 0
+index = 185
+positive = 4 negative = 0
+index = 186
+positive = 7 negative = 1
+index = 187
+positive = 7 negative = 0
+index = 188
+positive = 3 negative = 1
+index = 189
+positive = 3 negative = 0
+index = 190
+positive = 2 negative = 0
+index = 191
+positive = 11 negative = 3
+index = 192
+positive = 4 negative = 0
+index = 193
+positive = 6 negative = 0
+index = 194
+positive = 5 negative = 0
+index = 195
+positive = 1 negative = 0
+index = 196
+positive = 7 negative = 4
+index = 197
+positive = 0 negative = 0
+index = 198
+positive = 1 negative = 1
+index = 199
+positive = 3 negative = 0
+index = 200
+positive = 2 negative = 0
+index = 201
+positive = 2 negative = 0
+index = 202
+positive = 2 negative = 0
+index = 203
+positive = 3 negative = 0
+index = 204
+positive = 0 negative = 0
+index = 205
+positive = 0 negative = 0
+index = 206
+positive = 4 negative = 3
+index = 207
+positive = 2 negative = 0
+index = 208
+positive = 2 negative = 1
+index = 209
+positive = 0 negative = 2
+index = 210
+positive = 3 negative = 0
+index = 211
+positive = 6 negative = 0
+index = 212
+positive = 3 negative = 0
+index = 213
+positive = 5 negative = 0
+index = 214
+positive = 1 negative = 0
+index = 215
+positive = 2 negative = 0
+index = 216
+positive = 4 negative = 0
+index = 217
+positive = 2 negative = 0
+index = 218
+positive = 2 negative = 0
+index = 219
+positive = 1 negative = 0
+index = 220
+positive = 4 negative = 0
+index = 221
+positive = 0 negative = 0
+index = 222
+positive = 2 negative = 0
+index = 223
+positive = 2 negative = 0
+index = 224
+positive = 2 negative = 0
+index = 225
+positive = 1 negative = 0
+index = 226
+positive = 0 negative = 0
+index = 227
+positive = 1 negative = 0
+index = 228
+positive = 2 negative = 0
+index = 229
+positive = 1 negative = 0
+index = 230
+positive = 1 negative = 0
+index = 231
+positive = 1 negative = 1
+index = 232
+positive = 4 negative = 0
+index = 233
+positive = 0 negative = 0
+index = 234
+positive = 8 negative = 0
+index = 235
+positive = 1 negative = 0
+index = 236
+positive = 1 negative = 0
+index = 237
+positive = 0 negative = 0
+index = 238
+positive = 0 negative = 1
+index = 239
+positive = 1 negative = 0
+index = 240
+positive = 2 negative = 1
+index = 241
+positive = 2 negative = 0
+index = 242
+positive = 0 negative = 0
+index = 243
+positive = 3 negative = 1
+index = 244
+positive = 3 negative = 0
+index = 245
+positive = 5 negative = 3
+index = 246
+positive = 6 negative = 0
+index = 247
+positive = 3 negative = 1
+index = 248
+positive = 3 negative = 0
+index = 249
+positive = 4 negative = 3
+index = 250
+positive = 2 negative = 0
+index = 251
+positive = 2 negative = 0
+index = 252
+positive = 4 negative = 0
+index = 253
+positive = 6 negative = 4
+index = 254
+positive = 2 negative = 0
+index = 255
+positive = 3 negative = 0
+index = 256
+positive = 0 negative = 0
+index = 257
+positive = 3 negative = 1
+index = 258
+positive = 4 negative = 0
+index = 259
+positive = 2 negative = 0
+index = 260
+positive = 3 negative = 0
+index = 261
+positive = 3 negative = 0
+index = 262
+positive = 3 negative = 0
+index = 263
+positive = 3 negative = 0
+index = 264
+positive = 4 negative = 0
+index = 265
+positive = 2 negative = 0
+index = 266
+positive = 3 negative = 0
+index = 267
+positive = 3 negative = 0
+index = 268
+positive = 0 negative = 1
+index = 269
+positive = 6 negative = 3
+index = 270
+positive = 5 negative = 0
+index = 271
+positive = 2 negative = 0
+index = 272
+positive = 12 negative = 3
+index = 273
+positive = 3 negative = 1
+index = 274
+positive = 3 negative = 0
+index = 275
+positive = 2 negative = 0
+index = 276
+positive = 0 negative = 0
+index = 277
+positive = 2 negative = 1
+index = 278
+positive = 0 negative = 1
+index = 279
+positive = 7 negative = 1
+index = 280
+positive = 0 negative = 1
+index = 281
+positive = 1 negative = 1
+index = 282
+positive = 2 negative = 0
+index = 283
+positive = 6 negative = 0
+index = 284
+positive = 4 negative = 0
+index = 285
+positive = 4 negative = 0
+index = 286
+positive = 14 negative = 3
+index = 287
+positive = 1 negative = 1
+index = 288
+positive = 1 negative = 0
+index = 289
+positive = 1 negative = 0
+index = 290
+positive = 4 negative = 0
+index = 291
+positive = 3 negative = 2
+index = 292
+positive = 0 negative = 0
+index = 293
+positive = 2 negative = 0
+index = 294
+positive = 0 negative = 0
+index = 295
+positive = 4 negative = 0
+index = 296
+positive = 1 negative = 0
+index = 297
+positive = 0 negative = 0
+index = 298
+positive = 0 negative = 0
+index = 299
+positive = 2 negative = 1
+index = 300
+positive = 6 negative = 3
+index = 301
+positive = 6 negative = 1
+index = 302
+positive = 2 negative = 0
+index = 303
+positive = 3 negative = 0
+index = 304
+positive = 1 negative = 1
+index = 305
+positive = 0 negative = 0
+index = 306
+positive = 2 negative = 0
+index = 307
+positive = 3 negative = 1
+index = 308
+positive = 0 negative = 1
+index = 309
+positive = 0 negative = 0
+index = 310
+positive = 3 negative = 0
+index = 311
+positive = 1 negative = 0
+index = 312
+positive = 2 negative = 0
+index = 313
+positive = 1 negative = 0
+index = 314
+positive = 1 negative = 0
+index = 315
+positive = 3 negative = 0
+index = 316
+positive = 0 negative = 1
+index = 317
+positive = 2 negative = 1
+index = 318
+positive = 1 negative = 0
+index = 319
+positive = 0 negative = 1
+index = 320
+positive = 0 negative = 0
+index = 321
+positive = 0 negative = 0
+index = 322
+positive = 2 negative = 0
+index = 323
+positive = 0 negative = 1
+index = 324
+positive = 0 negative = 0
+index = 325
+positive = 0 negative = 1
+index = 326
+positive = 6 negative = 2
+index = 327
+positive = 0 negative = 0
+index = 328
+positive = 3 negative = 0
+index = 329
+positive = 0 negative = 0
+index = 330
+positive = 3 negative = 2
+index = 331
+positive = 4 negative = 0
+index = 332
+positive = 5 negative = 1
+index = 333
+positive = 6 negative = 1
+index = 334
+positive = 1 negative = 1
+index = 335
+positive = 4 negative = 2
+index = 336
+positive = 1 negative = 0
+index = 337
+positive = 4 negative = 0
+index = 338
+positive = 4 negative = 0
+index = 339
+positive = 2 negative = 0
+index = 340
+positive = 1 negative = 0
+index = 341
+positive = 1 negative = 1
+index = 342
+positive = 0 negative = 0
+index = 343
+positive = 2 negative = 0
+index = 344
+positive = 0 negative = 0
+index = 345
+positive = 0 negative = 0
+index = 346
+positive = 1 negative = 0
+index = 347
+positive = 0 negative = 0
+index = 348
+positive = 1 negative = 0
+index = 349
+positive = 3 negative = 0
+index = 350
+positive = 2 negative = 0
+index = 351
+positive = 7 negative = 0
+index = 352
+positive = 0 negative = 0
+index = 353
+positive = 4 negative = 0
+index = 354
+positive = 4 negative = 0
+index = 355
+positive = 3 negative = 1
+index = 356
+positive = 5 negative = 0
+index = 357
+positive = 5 negative = 0
+index = 358
+positive = 1 negative = 0
+index = 359
+positive = 4 negative = 0
+index = 360
+positive = 11 negative = 2
+index = 361
+positive = 0 negative = 0
+index = 362
+positive = 6 negative = 1
+index = 363
+positive = 4 negative = 0
+index = 364
+positive = 3 negative = 2
+index = 365
+positive = 0 negative = 0
+index = 366
+positive = 8 negative = 0
+index = 367
+positive = 4 negative = 1
+index = 368
+positive = 4 negative = 0
+index = 369
+positive = 1 negative = 0
+index = 370
+positive = 1 negative = 0
+index = 371
+positive = 2 negative = 0
+index = 372
+positive = 5 negative = 0
+index = 373
+positive = 3 negative = 0
+index = 374
+positive = 3 negative = 0
+index = 375
+positive = 1 negative = 0
+index = 376
+positive = 3 negative = 2
+index = 377
+positive = 3 negative = 0
+index = 378
+positive = 2 negative = 1
+index = 379
+positive = 4 negative = 0
+index = 380
+positive = 1 negative = 0
+index = 381
+positive = 1 negative = 2
+index = 382
+positive = 0 negative = 1
+index = 383
+positive = 2 negative = 0
+index = 384
+positive = 5 negative = 0
+index = 385
+positive = 2 negative = 1
+index = 386
+positive = 2 negative = 0
+index = 387
+positive = 2 negative = 0
+index = 388
+positive = 2 negative = 0
+index = 389
+positive = 0 negative = 0
+index = 390
+positive = 2 negative = 0
+index = 391
+positive = 2 negative = 0
+index = 392
+positive = 2 negative = 0
+index = 393
+positive = 1 negative = 0
+index = 394
+positive = 5 negative = 2
+index = 395
+positive = 0 negative = 1
+index = 396
+positive = 1 negative = 0
+index = 397
+positive = 1 negative = 0
+index = 398
+positive = 8 negative = 0
+index = 399
+positive = 0 negative = 0
+index = 400
+positive = 5 negative = 0
+index = 401
+positive = 2 negative = 0
+index = 402
+positive = 1 negative = 1
+index = 403
+positive = 3 negative = 0
+index = 404
+positive = 5 negative = 0
+index = 405
+positive = 5 negative = 0
+index = 406
+positive = 3 negative = 0
+index = 407
+positive = 2 negative = 0
+index = 408
+positive = 13 negative = 0
+index = 409
+positive = 2 negative = 0
+index = 410
+positive = 4 negative = 0
+index = 411
+positive = 5 negative = 0
+index = 412
+positive = 4 negative = 1
+index = 413
+positive = 2 negative = 0
+index = 414
+positive = 1 negative = 1
+index = 415
+positive = 2 negative = 0
+index = 416
+positive = 1 negative = 0
+index = 417
+positive = 0 negative = 0
+index = 418
+positive = 0 negative = 0
+index = 419
+positive = 2 negative = 0
+index = 420
+positive = 1 negative = 1
+index = 421
+positive = 3 negative = 2
+index = 422
+positive = 2 negative = 0
+index = 423
+positive = 4 negative = 0
+index = 424
+positive = 1 negative = 0
+index = 425
+positive = 6 negative = 0
+index = 426
+positive = 0 negative = 2
+index = 427
+positive = 2 negative = 0
+index = 428
+positive = 0 negative = 0
+index = 429
+positive = 3 negative = 0
+index = 430
+positive = 3 negative = 0
+index = 431
+positive = 0 negative = 1
+index = 432
+positive = 2 negative = 0
+index = 433
+positive = 0 negative = 2
+index = 434
+positive = 0 negative = 0
+index = 435
+positive = 1 negative = 0
+index = 436
+positive = 4 negative = 0
+index = 437
+positive = 2 negative = 1
+index = 438
+positive = 2 negative = 0
+index = 439
+positive = 2 negative = 1
+index = 440
+positive = 3 negative = 0
+index = 441
+positive = 3 negative = 0
+index = 442
+positive = 1 negative = 1
+index = 443
+positive = 2 negative = 0
+index = 444
+positive = 3 negative = 0
+index = 445
+positive = 4 negative = 0
+index = 446
+positive = 1 negative = 0
+index = 447
+positive = 2 negative = 0
+index = 448
+positive = 0 negative = 1
+index = 449
+positive = 9 negative = 0
+index = 450
+positive = 0 negative = 0
+index = 451
+positive = 5 negative = 1
+index = 452
+positive = 3 negative = 0
+index = 453
+positive = 5 negative = 3
+index = 454
+positive = 1 negative = 0
+index = 455
+positive = 25 negative = 19
+index = 456
+positive = 3 negative = 2
+index = 457
+positive = 3 negative = 0
+index = 458
+positive = 0 negative = 1
+index = 459
+positive = 3 negative = 0
+index = 460
+positive = 0 negative = 0
+index = 461
+positive = 5 negative = 0
+index = 462
+positive = 0 negative = 1
+index = 463
+positive = 2 negative = 1
+index = 464
+positive = 2 negative = 0
+index = 465
+positive = 3 negative = 2
+index = 466
+positive = 1 negative = 0
+index = 467
+positive = 3 negative = 1
+index = 468
+positive = 0 negative = 1
+index = 469
+positive = 3 negative = 2
+index = 470
+positive = 6 negative = 0
+index = 471
+positive = 7 negative = 0
+index = 472
+positive = 3 negative = 0
+index = 473
+positive = 2 negative = 0
+index = 474
+positive = 4 negative = 0
+index = 475
+positive = 0 negative = 1
+index = 476
+positive = 6 negative = 0
+index = 477
+positive = 3 negative = 0
+index = 478
+positive = 3 negative = 0
+index = 479
+positive = 8 negative = 1
+index = 480
+positive = 4 negative = 0
+index = 481
+positive = 0 negative = 0
+index = 482
+positive = 5 negative = 0
+index = 483
+positive = 0 negative = 0
+index = 484
+positive = 2 negative = 1
+index = 485
+positive = 1 negative = 0
+index = 486
+positive = 2 negative = 0
+index = 487
+positive = 3 negative = 0
+index = 488
+positive = 3 negative = 0
+index = 489
+positive = 0 negative = 0
+index = 490
+positive = 4 negative = 0
+index = 491
+positive = 5 negative = 1
+index = 492
+positive = 0 negative = 1
+index = 493
+positive = 1 negative = 0
+index = 494
+positive = 0 negative = 0
+index = 495
+positive = 4 negative = 0
+index = 496
+positive = 3 negative = 0
+index = 497
+positive = 1 negative = 1
+index = 498
+positive = 3 negative = 1
+index = 499
+positive = 3 negative = 5
+index = 500
+positive = 1 negative = 0
+index = 501
+positive = 0 negative = 1
+index = 502
+positive = 1 negative = 0
+index = 503
+positive = 7 negative = 3
+index = 504
+positive = 4 negative = 2
+index = 505
+positive = 3 negative = 0
+index = 506
+positive = 11 negative = 0
+index = 507
+positive = 3 negative = 0
+index = 508
+positive = 2 negative = 1
+index = 509
+positive = 4 negative = 3
+index = 510
+positive = 2 negative = 4
+index = 511
+positive = 4 negative = 1
+index = 512
+positive = 1 negative = 1
+index = 513
+positive = 0 negative = 3
+index = 514
+positive = 1 negative = 1
+index = 515
+positive = 2 negative = 3
+index = 516
+positive = 5 negative = 0
+index = 517
+positive = 3 negative = 1
+index = 518
+positive = 11 negative = 1
+index = 519
+positive = 2 negative = 0
+index = 520
+positive = 2 negative = 3
+index = 521
+positive = 7 negative = 1
+index = 522
+positive = 4 negative = 1
+index = 523
+positive = 2 negative = 1
+index = 524
+positive = 3 negative = 1
+index = 525
+positive = 3 negative = 0
+index = 526
+positive = 1 negative = 1
+index = 527
+positive = 6 negative = 0
+index = 528
+positive = 6 negative = 3
+index = 529
+positive = 0 negative = 1
+index = 530
+positive = 10 negative = 2
+index = 531
+positive = 1 negative = 0
+index = 532
+positive = 1 negative = 0
+index = 533
+positive = 2 negative = 0
+index = 534
+positive = 3 negative = 0
+index = 535
+positive = 4 negative = 0
+index = 536
+positive = 3 negative = 2
+index = 537
+positive = 2 negative = 0
+index = 538
+positive = 4 negative = 3
+index = 539
+positive = 7 negative = 2
+index = 540
+positive = 3 negative = 2
+index = 541
+positive = 2 negative = 2
+index = 542
+positive = 1 negative = 1
+index = 543
+positive = 0 negative = 0
+index = 544
+positive = 5 negative = 0
+index = 545
+positive = 5 negative = 0
+index = 546
+positive = 4 negative = 0
+index = 547
+positive = 5 negative = 0
+index = 548
+positive = 0 negative = 0
+index = 549
+positive = 1 negative = 1
+index = 550
+positive = 3 negative = 1
+index = 551
+positive = 4 negative = 0
+index = 552
+positive = 0 negative = 3
+index = 553
+positive = 1 negative = 2
+index = 554
+positive = 4 negative = 0
+index = 555
+positive = 1 negative = 0
+index = 556
+positive = 2 negative = 0
+index = 557
+positive = 3 negative = 0
+index = 558
+positive = 0 negative = 2
+index = 559
+positive = 6 negative = 1
+index = 560
+positive = 3 negative = 1
+index = 561
+positive = 6 negative = 2
+index = 562
+positive = 5 negative = 1
+index = 563
+positive = 5 negative = 1
+index = 564
+positive = 5 negative = 1
+index = 565
+positive = 3 negative = 1
+index = 566
+positive = 3 negative = 2
+index = 567
+positive = 5 negative = 0
+index = 568
+positive = 2 negative = 0
+index = 569
+positive = 2 negative = 0
+index = 570
+positive = 2 negative = 1
+index = 571
+positive = 1 negative = 0
+index = 572
+positive = 0 negative = 0
+index = 573
+positive = 4 negative = 0
+index = 574
+positive = 4 negative = 0
+index = 575
+positive = 0 negative = 1
+index = 576
+positive = 7 negative = 2
+index = 577
+positive = 2 negative = 2
+index = 578
+positive = 3 negative = 0
+index = 579
+positive = 1 negative = 2
+index = 580
+positive = 1 negative = 1
+index = 581
+positive = 4 negative = 1
+index = 582
+positive = 2 negative = 0
+index = 583
+positive = 3 negative = 1
+index = 584
+positive = 3 negative = 0
+index = 585
+positive = 4 negative = 2
+index = 586
+positive = 1 negative = 0
+index = 587
+positive = 2 negative = 0
+index = 588
+positive = 1 negative = 0
+index = 589
+positive = 5 negative = 0
+index = 590
+positive = 9 negative = 1
+index = 591
+positive = 3 negative = 2
+index = 592
+positive = 0 negative = 1
+index = 593
+positive = 1 negative = 4
+index = 594
+positive = 0 negative = 0
+index = 595
+positive = 10 negative = 1
+index = 596
+positive = 3 negative = 5
+index = 597
+positive = 1 negative = 2
+index = 598
+positive = 1 negative = 1
+index = 599
+positive = 7 negative = 4
+index = 600
+positive = 6 negative = 0
+index = 601
+positive = 3 negative = 0
+index = 602
+positive = 3 negative = 4
+index = 603
+positive = 2 negative = 1
+index = 604
+positive = 0 negative = 0
+index = 605
+positive = 1 negative = 1
+index = 606
+positive = 6 negative = 0
+index = 607
+positive = 2 negative = 1
+index = 608
+positive = 2 negative = 1
+index = 609
+positive = 3 negative = 0
+index = 610
+positive = 3 negative = 2
+index = 611
+positive = 2 negative = 1
+index = 612
+positive = 4 negative = 1
+index = 613
+positive = 1 negative = 1
+index = 614
+positive = 1 negative = 1
+index = 615
+positive = 1 negative = 0
+index = 616
+positive = 2 negative = 0
+index = 617
+positive = 0 negative = 0
+index = 618
+positive = 0 negative = 0
+index = 619
+positive = 5 negative = 5
+index = 620
+positive = 1 negative = 0
+index = 621
+positive = 2 negative = 0
+index = 622
+positive = 5 negative = 3
+index = 623
+positive = 1 negative = 0
+index = 624
+positive = 2 negative = 0
+index = 625
+positive = 6 negative = 0
+index = 626
+positive = 1 negative = 0
+index = 627
+positive = 5 negative = 2
+index = 628
+positive = 1 negative = 2
+index = 629
+positive = 4 negative = 0
+index = 630
+positive = 0 negative = 0
+index = 631
+positive = 2 negative = 1
+index = 632
+positive = 1 negative = 0
+index = 633
+positive = 1 negative = 1
+index = 634
+positive = 3 negative = 2
+index = 635
+positive = 2 negative = 1
+index = 636
+positive = 3 negative = 0
+index = 637
+positive = 1 negative = 0
+index = 638
+positive = 2 negative = 0
+index = 639
+positive = 2 negative = 0
+index = 640
+positive = 3 negative = 0
+index = 641
+positive = 6 negative = 0
+index = 642
+positive = 2 negative = 0
+index = 643
+positive = 1 negative = 0
+index = 644
+positive = 2 negative = 0
+index = 645
+positive = 0 negative = 1
+index = 646
+positive = 1 negative = 0
+index = 647
+positive = 0 negative = 1
+index = 648
+positive = 3 negative = 0
+index = 649
+positive = 1 negative = 1
+index = 650
+positive = 7 negative = 0
+index = 651
+positive = 1 negative = 0
+index = 652
+positive = 3 negative = 0
+index = 653
+positive = 0 negative = 0
+index = 654
+positive = 4 negative = 2
+index = 655
+positive = 5 negative = 1
+index = 656
+positive = 1 negative = 0
+index = 657
+positive = 1 negative = 0
+index = 658
+positive = 2 negative = 0
+index = 659
+positive = 0 negative = 0
+index = 660
+positive = 3 negative = 0
+index = 661
+positive = 3 negative = 0
+index = 662
+positive = 1 negative = 0
+index = 663
+positive = 5 negative = 0
+index = 664
+positive = 2 negative = 0
+index = 665
+positive = 1 negative = 0
+index = 666
+positive = 2 negative = 0
+index = 667
+positive = 3 negative = 0
+index = 668
+positive = 2 negative = 0
+index = 669
+positive = 0 negative = 2
+index = 670
+positive = 3 negative = 0
+index = 671
+positive = 5 negative = 1
+index = 672
+positive = 1 negative = 0
+index = 673
+positive = 1 negative = 1
+index = 674
+positive = 0 negative = 1
+index = 675
+positive = 7 negative = 0
+index = 676
+positive = 2 negative = 1
+index = 677
+positive = 2 negative = 0
+index = 678
+positive = 1 negative = 0
+index = 679
+positive = 4 negative = 1
+index = 680
+positive = 2 negative = 2
+index = 681
+positive = 0 negative = 0
+index = 682
+positive = 1 negative = 0
+index = 683
+positive = 3 negative = 0
+index = 684
+positive = 0 negative = 1
+index = 685
+positive = 2 negative = 0
+index = 686
+positive = 4 negative = 0
+index = 687
+positive = 10 negative = 0
+index = 688
+positive = 10 negative = 0
+index = 689
+positive = 2 negative = 0
+index = 690
+positive = 3 negative = 1
+index = 691
+positive = 4 negative = 0
+index = 692
+positive = 0 negative = 0
+index = 693
+positive = 2 negative = 0
+index = 694
+positive = 5 negative = 3
+index = 695
+positive = 8 negative = 0
+index = 696
+positive = 4 negative = 0
+index = 697
+positive = 9 negative = 2
+index = 698
+positive = 4 negative = 1
+index = 699
+positive = 0 negative = 0
+index = 700
+positive = 3 negative = 2
+index = 701
+positive = 7 negative = 0
+index = 702
+positive = 4 negative = 1
+index = 703
+positive = 2 negative = 0
+index = 704
+positive = 11 negative = 2
+index = 705
+positive = 8 negative = 1
+index = 706
+positive = 0 negative = 0
+index = 707
+positive = 0 negative = 0
+index = 708
+positive = 0 negative = 0
+index = 709
+positive = 0 negative = 0
+index = 710
+positive = 12 negative = 1
+index = 711
+positive = 3 negative = 0
+index = 712
+positive = 7 negative = 0
+index = 713
+positive = 2 negative = 0
+index = 714
+positive = 2 negative = 0
+index = 715
+positive = 0 negative = 0
+index = 716
+positive = 2 negative = 2
+index = 717
+positive = 0 negative = 0
+index = 718
+positive = 0 negative = 0
+index = 719
+positive = 6 negative = 0
+index = 720
+positive = 7 negative = 1
+index = 721
+positive = 1 negative = 0
+index = 722
+positive = 0 negative = 0
+index = 723
+positive = 3 negative = 0
+index = 724
+positive = 1 negative = 0
+index = 725
+positive = 2 negative = 0
+index = 726
+positive = 2 negative = 0
+index = 727
+positive = 0 negative = 0
+index = 728
+positive = 1 negative = 0
+index = 729
+positive = 0 negative = 0
+index = 730
+positive = 0 negative = 0
+index = 731
+positive = 4 negative = 0
+index = 732
+positive = 8 negative = 0
+index = 733
+positive = 9 negative = 2
+index = 734
+positive = 0 negative = 0
+index = 735
+positive = 2 negative = 1
+index = 736
+positive = 1 negative = 0
+index = 737
+positive = 4 negative = 0
+index = 738
+positive = 0 negative = 0
+index = 739
+positive = 3 negative = 2
+index = 740
+positive = 2 negative = 0
+index = 741
+positive = 5 negative = 1
+index = 742
+positive = 3 negative = 0
+index = 743
+positive = 4 negative = 2
+index = 744
+positive = 10 negative = 0
+index = 745
+positive = 0 negative = 0
+index = 746
+positive = 5 negative = 1
+index = 747
+positive = 3 negative = 0
+index = 748
+positive = 3 negative = 0
+index = 749
+positive = 4 negative = 0
+index = 750
+positive = 0 negative = 0
+index = 751
+positive = 4 negative = 0
+index = 752
+positive = 8 negative = 0
+index = 753
+positive = 4 negative = 6
+index = 754
+positive = 11 negative = 1
+index = 755
+positive = 3 negative = 1
+index = 756
+positive = 6 negative = 2
+index = 757
+positive = 4 negative = 3
+index = 758
+positive = 7 negative = 3
+index = 759
+positive = 5 negative = 0
+index = 760
+positive = 15 negative = 4
+index = 761
+positive = 1 negative = 1
+index = 762
+positive = 0 negative = 0
+index = 763
+positive = 1 negative = 0
+index = 764
+positive = 0 negative = 0
+index = 765
+positive = 2 negative = 0
+index = 766
+positive = 0 negative = 0
+index = 767
+positive = 1 negative = 0
+index = 768
+positive = 1 negative = 0
+index = 769
+positive = 0 negative = 0
+index = 770
+positive = 4 negative = 3
+index = 771
+positive = 2 negative = 1
+index = 772
+positive = 2 negative = 0
+index = 773
+positive = 2 negative = 2
+index = 774
+positive = 3 negative = 0
+index = 775
+positive = 1 negative = 0
+index = 776
+positive = 7 negative = 0
+index = 777
+positive = 4 negative = 0
+index = 778
+positive = 3 negative = 0
+index = 779
+positive = 0 negative = 0
+index = 780
+positive = 0 negative = 2
+index = 781
+positive = 3 negative = 0
+index = 782
+positive = 0 negative = 0
+index = 783
+positive = 1 negative = 0
+index = 784
+positive = 4 negative = 0
+index = 785
+positive = 5 negative = 0
+index = 786
+positive = 7 negative = 0
+index = 787
+positive = 5 negative = 0
+index = 788
+positive = 2 negative = 0
+index = 789
+positive = 4 negative = 0
+index = 790
+positive = 3 negative = 1
+index = 791
+positive = 2 negative = 0
+index = 792
+positive = 4 negative = 0
+index = 793
+positive = 4 negative = 1
+index = 794
+positive = 7 negative = 1
+index = 795
+positive = 1 negative = 1
+index = 796
+positive = 4 negative = 0
+index = 797
+positive = 3 negative = 0
+index = 798
+positive = 2 negative = 0
+index = 799
+positive = 9 negative = 1
+index = 800
+positive = 0 negative = 0
+index = 801
+positive = 2 negative = 0
+index = 802
+positive = 13 negative = 17
+index = 803
+positive = 1 negative = 3
+index = 804
+positive = 1 negative = 1
+index = 805
+positive = 2 negative = 0
+index = 806
+positive = 0 negative = 1
+index = 807
+positive = 2 negative = 0
+index = 808
+positive = 0 negative = 1
+index = 809
+positive = 0 negative = 0
+index = 810
+positive = 2 negative = 0
+index = 811
+positive = 1 negative = 0
+index = 812
+positive = 6 negative = 0
+index = 813
+positive = 1 negative = 0
+index = 814
+positive = 1 negative = 0
+index = 815
+positive = 1 negative = 0
+index = 816
+positive = 9 negative = 0
+index = 817
+positive = 0 negative = 0
+index = 818
+positive = 0 negative = 1
+index = 819
+positive = 2 negative = 0
+index = 820
+positive = 3 negative = 1
+index = 821
+positive = 0 negative = 0
+index = 822
+positive = 1 negative = 0
+index = 823
+positive = 1 negative = 0
+index = 824
+positive = 2 negative = 0
+index = 825
+positive = 1 negative = 1
+index = 826
+positive = 4 negative = 0
+index = 827
+positive = 0 negative = 0
+index = 828
+positive = 6 negative = 3
+index = 829
+positive = 2 negative = 0
+index = 830
+positive = 0 negative = 0
+index = 831
+positive = 2 negative = 0
+index = 832
+positive = 1 negative = 0
+index = 833
+positive = 0 negative = 0
+index = 834
+positive = 3 negative = 0
+index = 835
+positive = 1 negative = 0
+index = 836
+positive = 1 negative = 0
+index = 837
+positive = 0 negative = 0
+index = 838
+positive = 0 negative = 0
+index = 839
+positive = 1 negative = 3
+index = 840
+positive = 1 negative = 0
+index = 841
+positive = 0 negative = 0
+index = 842
+positive = 3 negative = 0
+index = 843
+positive = 2 negative = 3
+index = 844
+positive = 3 negative = 0
+index = 845
+positive = 1 negative = 0
+index = 846
+positive = 4 negative = 1
+index = 847
+positive = 2 negative = 1
+index = 848
+positive = 2 negative = 1
+index = 849
+positive = 6 negative = 1
+index = 850
+positive = 0 negative = 0
+index = 851
+positive = 0 negative = 0
+index = 852
+positive = 0 negative = 1
+index = 853
+positive = 2 negative = 0
+index = 854
+positive = 0 negative = 0
+index = 855
+positive = 1 negative = 1
+index = 856
+positive = 1 negative = 1
+index = 857
+positive = 3 negative = 0
+index = 858
+positive = 4 negative = 1
+index = 859
+positive = 4 negative = 1
+index = 860
+positive = 6 negative = 0
+index = 861
+positive = 1 negative = 0
+index = 862
+positive = 2 negative = 0
+index = 863
+positive = 1 negative = 0
+index = 864
+positive = 2 negative = 0
+index = 865
+positive = 2 negative = 1
+index = 866
+positive = 18 negative = 3
+index = 867
+positive = 1 negative = 1
+index = 868
+positive = 0 negative = 0
+index = 869
+positive = 1 negative = 0
+index = 870
+positive = 13 negative = 22
+index = 871
+positive = 6 negative = 3
+index = 872
+positive = 0 negative = 1
+index = 873
+positive = 3 negative = 1
+index = 874
+positive = 3 negative = 2
+index = 875
+positive = 3 negative = 0
+index = 876
+positive = 2 negative = 2
+index = 877
+positive = 1 negative = 0
+index = 878
+positive = 0 negative = 2
+index = 879
+positive = 3 negative = 2
+index = 880
+positive = 0 negative = 2
+index = 881
+positive = 6 negative = 1
+index = 882
+positive = 4 negative = 1
+index = 883
+positive = 2 negative = 1
+index = 884
+positive = 5 negative = 1
+index = 885
+positive = 1 negative = 1
+index = 886
+positive = 3 negative = 1
+index = 887
+positive = 3 negative = 1
+index = 888
+positive = 1 negative = 0
+index = 889
+positive = 3 negative = 0
+index = 890
+positive = 2 negative = 0
+index = 891
+positive = 0 negative = 0
+index = 892
+positive = 3 negative = 4
+index = 893
+positive = 0 negative = 0
+index = 894
+positive = 10 negative = 3
+index = 895
+positive = 2 negative = 4
+index = 896
+positive = 1 negative = 0
+index = 897
+positive = 6 negative = 2
+index = 898
+positive = 1 negative = 3
+index = 899
+positive = 1 negative = 0
+index = 900
+positive = 0 negative = 0
+index = 901
+positive = 0 negative = 0
+index = 902
+positive = 3 negative = 0
+index = 903
+positive = 2 negative = 2
+index = 904
+positive = 4 negative = 1
+index = 905
+positive = 0 negative = 0
+index = 906
+positive = 0 negative = 0
+index = 907
+positive = 1 negative = 0
+index = 908
+positive = 0 negative = 0
+index = 909
+positive = 1 negative = 0
+index = 910
+positive = 0 negative = 0
+index = 911
+positive = 0 negative = 0
+index = 912
+positive = 5 negative = 0
+index = 913
+positive = 4 negative = 0
+index = 914
+positive = 2 negative = 0
+index = 915
+positive = 10 negative = 0
+index = 916
+positive = 4 negative = 0
+index = 917
+positive = 0 negative = 0
+index = 918
+positive = 5 negative = 1
+index = 919
+positive = 6 negative = 0
+index = 920
+positive = 1 negative = 0
+index = 921
+positive = 3 negative = 0
+index = 922
+positive = 2 negative = 2
+index = 923
+positive = 1 negative = 0
+index = 924
+positive = 2 negative = 2
+index = 925
+positive = 0 negative = 0
+index = 926
+positive = 1 negative = 0
+index = 927
+positive = 2 negative = 0
+index = 928
+positive = 4 negative = 0
+index = 929
+positive = 0 negative = 1
+index = 930
+positive = 4 negative = 1
+index = 931
+positive = 2 negative = 0
+index = 932
+positive = 1 negative = 1
+index = 933
+positive = 0 negative = 2
+index = 934
+positive = 6 negative = 0
+index = 935
+positive = 0 negative = 1
+index = 936
+positive = 0 negative = 1
+index = 937
+positive = 0 negative = 0
+index = 938
+positive = 1 negative = 0
+index = 939
+positive = 1 negative = 1
+index = 940
+positive = 2 negative = 0
+index = 941
+positive = 2 negative = 0
+index = 942
+positive = 1 negative = 0
+index = 943
+positive = 2 negative = 1
+index = 944
+positive = 1 negative = 0
+index = 945
+positive = 2 negative = 0
+index = 946
+positive = 1 negative = 0
+index = 947
+positive = 3 negative = 0
+index = 948
+positive = 4 negative = 0
+index = 949
+positive = 0 negative = 1
+index = 950
+positive = 0 negative = 0
+index = 951
+positive = 3 negative = 0
+index = 952
+positive = 2 negative = 0
+index = 953
+positive = 0 negative = 0
+index = 954
+positive = 4 negative = 0
+index = 955
+positive = 3 negative = 0
+index = 956
+positive = 2 negative = 1
+index = 957
+positive = 3 negative = 1
+index = 958
+positive = 0 negative = 0
+index = 959
+positive = 8 negative = 0
+index = 960
+positive = 5 negative = 0
+index = 961
+positive = 3 negative = 1
+index = 962
+positive = 5 negative = 0
+index = 963
+positive = 1 negative = 0
+index = 964
+positive = 0 negative = 0
+index = 965
+positive = 1 negative = 0
+index = 966
+positive = 0 negative = 0
+index = 967
+positive = 2 negative = 0
+index = 968
+positive = 1 negative = 0
+index = 969
+positive = 0 negative = 0
+index = 970
+positive = 0 negative = 0
+index = 971
+positive = 0 negative = 0
+index = 972
+positive = 1 negative = 0
+index = 973
+positive = 1 negative = 0
+index = 974
+positive = 1 negative = 0
+index = 975
+positive = 3 negative = 0
+index = 976
+positive = 0 negative = 0
+index = 977
+positive = 1 negative = 0
+index = 978
+positive = 3 negative = 0
+index = 979
+positive = 2 negative = 0
+index = 980
+positive = 0 negative = 0
+index = 981
+positive = 3 negative = 0
+index = 982
+positive = 0 negative = 0
+index = 983
+positive = 1 negative = 1
+index = 984
+positive = 2 negative = 1
+index = 985
+positive = 0 negative = 0
+index = 986
+positive = 0 negative = 0
+index = 987
+positive = 0 negative = 0
+index = 988
+positive = 1 negative = 1
+index = 989
+positive = 1 negative = 0
+index = 990
+positive = 1 negative = 0
+index = 991
+positive = 0 negative = 0
+index = 992
+positive = 1 negative = 1
+index = 993
+positive = 1 negative = 0
+index = 994
+positive = 1 negative = 0
+index = 995
+positive = 1 negative = 1
+index = 996
+positive = 0 negative = 0
+index = 997
+positive = 2 negative = 0
+index = 998
+positive = 0 negative = 0
+index = 999
+positive = 1 negative = 0
+index = 1000
+positive = 1 negative = 0
+index = 1001
+positive = 1 negative = 0
+index = 1002
+positive = 2 negative = 0
+index = 1003
+positive = 0 negative = 0
+index = 1004
+positive = 0 negative = 0
+index = 1005
+positive = 1 negative = 0
+index = 1006
+positive = 5 negative = 0
+index = 1007
+positive = 3 negative = 0
+index = 1008
+positive = 0 negative = 1
+index = 1009
+positive = 1 negative = 0
+index = 1010
+positive = 0 negative = 0
+index = 1011
+positive = 3 negative = 0
+index = 1012
+positive = 0 negative = 0
+index = 1013
+positive = 1 negative = 0
+index = 1014
+positive = 1 negative = 0
+index = 1015
+positive = 2 negative = 0
+index = 0
+positive = 3 negative = 0
+index = 1
+positive = 3 negative = 0
+index = 2
+positive = 8 negative = 0
+index = 3
+positive = 5 negative = 0
+index = 4
+positive = 5 negative = 0
+index = 5
+positive = 4 negative = 1
+index = 6
+positive = 0 negative = 1
+index = 7
+positive = 4 negative = 0
+index = 8
+positive = 14 negative = 0
+index = 9
+positive = 1 negative = 0
+index = 10
+positive = 1 negative = 0
+index = 11
+positive = 5 negative = 0
+index = 12
+positive = 4 negative = 2
+index = 13
+positive = 2 negative = 1
+index = 14
+positive = 5 negative = 0
+index = 15
+positive = 4 negative = 0
+index = 16
+positive = 5 negative = 0
+index = 17
+positive = 0 negative = 0
+index = 18
+positive = 2 negative = 2
+index = 19
+positive = 4 negative = 0
+index = 20
+positive = 5 negative = 0
+index = 21
+positive = 0 negative = 0
+index = 22
+positive = 0 negative = 0
+index = 23
+positive = 4 negative = 2
+index = 24
+positive = 7 negative = 0
+index = 25
+positive = 5 negative = 1
+index = 26
+positive = 2 negative = 0
+index = 27
+positive = 0 negative = 2
+index = 28
+positive = 4 negative = 0
+index = 29
+positive = 2 negative = 0
+index = 30
+positive = 1 negative = 0
+index = 31
+positive = 1 negative = 0
+index = 32
+positive = 2 negative = 0
+index = 33
+positive = 4 negative = 0
+index = 34
+positive = 1 negative = 0
+index = 35
+positive = 2 negative = 0
+index = 36
+positive = 1 negative = 0
+index = 37
+positive = 1 negative = 1
+index = 38
+positive = 0 negative = 0
+index = 39
+positive = 0 negative = 0
+index = 40
+positive = 2 negative = 2
+index = 41
+positive = 1 negative = 0
+index = 42
+positive = 2 negative = 0
+index = 43
+positive = 2 negative = 2
+index = 44
+positive = 0 negative = 0
+index = 45
+positive = 2 negative = 1
+index = 46
+positive = 3 negative = 0
+index = 47
+positive = 0 negative = 0
+index = 48
+positive = 2 negative = 0
+index = 49
+positive = 0 negative = 0
+index = 50
+positive = 1 negative = 0
+index = 51
+positive = 2 negative = 0
+index = 52
+positive = 1 negative = 0
+index = 53
+positive = 1 negative = 0
+index = 54
+positive = 2 negative = 0
+index = 55
+positive = 0 negative = 0
+index = 56
+positive = 3 negative = 0
+index = 57
+positive = 0 negative = 1
+index = 58
+positive = 3 negative = 1
+index = 59
+positive = 2 negative = 0
+index = 60
+positive = 3 negative = 0
+index = 61
+positive = 2 negative = 0
+index = 62
+positive = 0 negative = 0
+index = 63
+positive = 1 negative = 1
+index = 64
+positive = 1 negative = 0
+index = 65
+positive = 0 negative = 0
+index = 66
+positive = 3 negative = 0
+index = 67
+positive = 4 negative = 0
+index = 68
+positive = 2 negative = 3
+index = 69
+positive = 0 negative = 0
+index = 70
+positive = 1 negative = 0
+index = 71
+positive = 2 negative = 0
+index = 72
+positive = 2 negative = 0
+index = 73
+positive = 0 negative = 0
+index = 74
+positive = 0 negative = 0
+index = 75
+positive = 6 negative = 2
+index = 76
+positive = 2 negative = 0
+index = 77
+positive = 2 negative = 2
+index = 78
+positive = 1 negative = 0
+index = 79
+positive = 2 negative = 0
+index = 80
+positive = 0 negative = 0
+index = 81
+positive = 1 negative = 0
+index = 82
+positive = 2 negative = 1
+index = 83
+positive = 1 negative = 0
+index = 84
+positive = 1 negative = 0
+index = 85
+positive = 5 negative = 0
+index = 86
+positive = 5 negative = 0
+index = 87
+positive = 6 negative = 0
+index = 88
+positive = 4 negative = 0
+index = 89
+positive = 9 negative = 1
+index = 90
+positive = 6 negative = 0
+index = 91
+positive = 3 negative = 0
+index = 92
+positive = 2 negative = 0
+index = 93
+positive = 3 negative = 0
+index = 94
+positive = 4 negative = 0
+index = 95
+positive = 2 negative = 0
+index = 96
+positive = 2 negative = 0
+index = 97
+positive = 2 negative = 0
+index = 98
+positive = 1 negative = 0
+index = 99
+positive = 0 negative = 0
+index = 100
+positive = 4 negative = 2
+index = 101
+positive = 2 negative = 2
+index = 102
+positive = 3 negative = 0
+index = 103
+positive = 3 negative = 0
+index = 104
+positive = 3 negative = 0
+index = 105
+positive = 0 negative = 0
+index = 106
+positive = 1 negative = 0
+index = 107
+positive = 1 negative = 0
+index = 108
+positive = 4 negative = 0
+index = 109
+positive = 0 negative = 0
+index = 110
+positive = 1 negative = 0
+index = 111
+positive = 2 negative = 2
+index = 112
+positive = 5 negative = 1
+index = 113
+positive = 1 negative = 0
+index = 114
+positive = 2 negative = 1
+index = 115
+positive = 5 negative = 0
+index = 116
+positive = 4 negative = 3
+index = 117
+positive = 5 negative = 7
+index = 118
+positive = 0 negative = 0
+index = 119
+positive = 4 negative = 0
+index = 120
+positive = 4 negative = 0
+index = 121
+positive = 0 negative = 0
+index = 122
+positive = 2 negative = 0
+index = 123
+positive = 4 negative = 1
+index = 124
+positive = 6 negative = 0
+index = 125
+positive = 0 negative = 0
+index = 126
+positive = 1 negative = 1
+index = 127
+positive = 3 negative = 0
+index = 128
+positive = 0 negative = 0
+index = 129
+positive = 2 negative = 1
+index = 130
+positive = 3 negative = 0
+index = 131
+positive = 3 negative = 0
+index = 132
+positive = 3 negative = 1
+index = 133
+positive = 1 negative = 0
+index = 134
+positive = 1 negative = 0
+index = 135
+positive = 2 negative = 0
+index = 136
+positive = 3 negative = 1
+index = 137
+positive = 1 negative = 0
+index = 138
+positive = 2 negative = 0
+index = 139
+positive = 0 negative = 0
+index = 140
+positive = 1 negative = 0
+index = 141
+positive = 2 negative = 1
+index = 142
+positive = 6 negative = 1
+index = 143
+positive = 5 negative = 1
+index = 144
+positive = 1 negative = 1
+index = 145
+positive = 5 negative = 0
+index = 146
+positive = 7 negative = 0
+index = 147
+positive = 1 negative = 0
+index = 148
+positive = 1 negative = 0
+index = 149
+positive = 8 negative = 1
+index = 150
+positive = 0 negative = 0
+index = 151
+positive = 9 negative = 2
+index = 152
+positive = 1 negative = 0
+index = 153
+positive = 2 negative = 0
+index = 154
+positive = 2 negative = 0
+index = 155
+positive = 4 negative = 1
+index = 156
+positive = 1 negative = 1
+index = 157
+positive = 4 negative = 2
+index = 158
+positive = 4 negative = 5
+index = 159
+positive = 0 negative = 0
+index = 160
+positive = 10 negative = 2
+index = 161
+positive = 5 negative = 1
+index = 162
+positive = 3 negative = 0
+index = 163
+positive = 4 negative = 0
+index = 164
+positive = 4 negative = 0
+index = 165
+positive = 3 negative = 0
+index = 166
+positive = 9 negative = 3
+index = 167
+positive = 3 negative = 0
+index = 168
+positive = 5 negative = 0
+index = 169
+positive = 9 negative = 3
+index = 170
+positive = 3 negative = 0
+index = 171
+positive = 2 negative = 3
+index = 172
+positive = 6 negative = 0
+index = 173
+positive = 5 negative = 1
+index = 174
+positive = 2 negative = 1
+index = 175
+positive = 1 negative = 0
+index = 176
+positive = 0 negative = 0
+index = 177
+positive = 9 negative = 3
+index = 178
+positive = 3 negative = 1
+index = 179
+positive = 1 negative = 1
+index = 180
+positive = 1 negative = 1
+index = 181
+positive = 0 negative = 0
+index = 182
+positive = 1 negative = 0
+index = 183
+positive = 1 negative = 0
+index = 184
+positive = 2 negative = 0
+index = 185
+positive = 4 negative = 0
+index = 186
+positive = 7 negative = 1
+index = 187
+positive = 7 negative = 0
+index = 188
+positive = 3 negative = 1
+index = 189
+positive = 3 negative = 0
+index = 190
+positive = 2 negative = 0
+index = 191
+positive = 11 negative = 3
+index = 192
+positive = 4 negative = 0
+index = 193
+positive = 6 negative = 0
+index = 194
+positive = 5 negative = 0
+index = 195
+positive = 1 negative = 0
+index = 196
+positive = 7 negative = 4
+index = 197
+positive = 0 negative = 0
+index = 198
+positive = 1 negative = 1
+index = 199
+positive = 3 negative = 0
+index = 200
+positive = 2 negative = 0
+index = 201
+positive = 2 negative = 0
+index = 202
+positive = 2 negative = 0
+index = 203
+positive = 3 negative = 0
+index = 204
+positive = 0 negative = 0
+index = 205
+positive = 0 negative = 0
+index = 206
+positive = 4 negative = 3
+index = 207
+positive = 2 negative = 0
+index = 208
+positive = 2 negative = 1
+index = 209
+positive = 0 negative = 2
+index = 210
+positive = 3 negative = 0
+index = 211
+positive = 6 negative = 0
+index = 212
+positive = 3 negative = 0
+index = 213
+positive = 5 negative = 0
+index = 214
+positive = 1 negative = 0
+index = 215
+positive = 2 negative = 0
+index = 216
+positive = 4 negative = 0
+index = 217
+positive = 2 negative = 0
+index = 218
+positive = 2 negative = 0
+index = 219
+positive = 1 negative = 0
+index = 220
+positive = 4 negative = 0
+index = 221
+positive = 0 negative = 0
+index = 222
+positive = 2 negative = 0
+index = 223
+positive = 2 negative = 0
+index = 224
+positive = 2 negative = 0
+index = 225
+positive = 1 negative = 0
+index = 226
+positive = 0 negative = 0
+index = 227
+positive = 1 negative = 0
+index = 228
+positive = 2 negative = 0
+index = 229
+positive = 1 negative = 0
+index = 230
+positive = 1 negative = 0
+index = 231
+positive = 1 negative = 1
+index = 232
+positive = 4 negative = 0
+index = 233
+positive = 0 negative = 0
+index = 234
+positive = 8 negative = 0
+index = 235
+positive = 1 negative = 0
+index = 236
+positive = 1 negative = 0
+index = 237
+positive = 0 negative = 0
+index = 238
+positive = 0 negative = 1
+index = 239
+positive = 1 negative = 0
+index = 240
+positive = 2 negative = 1
+index = 241
+positive = 2 negative = 0
+index = 242
+positive = 0 negative = 0
+index = 243
+positive = 3 negative = 1
+index = 244
+positive = 3 negative = 0
+index = 245
+positive = 5 negative = 3
+index = 246
+positive = 6 negative = 0
+index = 247
+positive = 3 negative = 1
+index = 248
+positive = 3 negative = 0
+index = 249
+positive = 4 negative = 3
+index = 250
+positive = 2 negative = 0
+index = 251
+positive = 2 negative = 0
+index = 252
+positive = 4 negative = 0
+index = 253
+positive = 6 negative = 4
+index = 254
+positive = 2 negative = 0
+index = 255
+positive = 3 negative = 0
+index = 256
+positive = 0 negative = 0
+index = 257
+positive = 3 negative = 1
+index = 258
+positive = 4 negative = 0
+index = 259
+positive = 2 negative = 0
+index = 260
+positive = 3 negative = 0
+index = 261
+positive = 3 negative = 0
+index = 262
+positive = 3 negative = 0
+index = 263
+positive = 3 negative = 0
+index = 264
+positive = 4 negative = 0
+index = 265
+positive = 2 negative = 0
+index = 266
+positive = 3 negative = 0
+index = 267
+positive = 3 negative = 0
+index = 268
+positive = 0 negative = 1
+index = 269
+positive = 6 negative = 3
+index = 270
+positive = 5 negative = 0
+index = 271
+positive = 2 negative = 0
+index = 272
+positive = 12 negative = 3
+index = 273
+positive = 3 negative = 1
+index = 274
+positive = 3 negative = 0
+index = 275
+positive = 2 negative = 0
+index = 276
+positive = 0 negative = 0
+index = 277
+positive = 2 negative = 1
+index = 278
+positive = 0 negative = 1
+index = 279
+positive = 7 negative = 1
+index = 280
+positive = 0 negative = 1
+index = 281
+positive = 1 negative = 1
+index = 282
+positive = 2 negative = 0
+index = 283
+positive = 6 negative = 0
+index = 284
+positive = 4 negative = 0
+index = 285
+positive = 4 negative = 0
+index = 286
+positive = 14 negative = 3
+index = 287
+positive = 1 negative = 1
+index = 288
+positive = 1 negative = 0
+index = 289
+positive = 1 negative = 0
+index = 290
+positive = 4 negative = 0
+index = 291
+positive = 3 negative = 2
+index = 292
+positive = 0 negative = 0
+index = 293
+positive = 2 negative = 0
+index = 294
+positive = 0 negative = 0
+index = 295
+positive = 4 negative = 0
+index = 296
+positive = 1 negative = 0
+index = 297
+positive = 0 negative = 0
+index = 298
+positive = 0 negative = 0
+index = 299
+positive = 2 negative = 1
+index = 300
+positive = 6 negative = 3
+index = 301
+positive = 6 negative = 1
+index = 302
+positive = 2 negative = 0
+index = 303
+positive = 3 negative = 0
+index = 304
+positive = 1 negative = 1
+index = 305
+positive = 0 negative = 0
+index = 306
+positive = 2 negative = 0
+index = 307
+positive = 3 negative = 1
+index = 308
+positive = 0 negative = 1
+index = 309
+positive = 0 negative = 0
+index = 310
+positive = 3 negative = 0
+index = 311
+positive = 1 negative = 0
+index = 312
+positive = 2 negative = 0
+index = 313
+positive = 1 negative = 0
+index = 314
+positive = 1 negative = 0
+index = 315
+positive = 3 negative = 0
+index = 316
+positive = 0 negative = 1
+index = 317
+positive = 2 negative = 1
+index = 318
+positive = 1 negative = 0
+index = 319
+positive = 0 negative = 1
+index = 320
+positive = 0 negative = 0
+index = 321
+positive = 0 negative = 0
+index = 322
+positive = 2 negative = 0
+index = 323
+positive = 0 negative = 1
+index = 324
+positive = 0 negative = 0
+index = 325
+positive = 0 negative = 1
+index = 326
+positive = 6 negative = 2
+index = 327
+positive = 0 negative = 0
+index = 328
+positive = 3 negative = 0
+index = 329
+positive = 0 negative = 0
+index = 330
+positive = 3 negative = 2
+index = 331
+positive = 4 negative = 0
+index = 332
+positive = 5 negative = 1
+index = 333
+positive = 6 negative = 1
+index = 334
+positive = 1 negative = 1
+index = 335
+positive = 4 negative = 2
+index = 336
+positive = 1 negative = 0
+index = 337
+positive = 4 negative = 0
+index = 338
+positive = 4 negative = 0
+index = 339
+positive = 2 negative = 0
+index = 340
+positive = 1 negative = 0
+index = 341
+positive = 1 negative = 1
+index = 342
+positive = 0 negative = 0
+index = 343
+positive = 2 negative = 0
+index = 344
+positive = 0 negative = 0
+index = 345
+positive = 0 negative = 0
+index = 346
+positive = 1 negative = 0
+index = 347
+positive = 0 negative = 0
+index = 348
+positive = 1 negative = 0
+index = 349
+positive = 3 negative = 0
+index = 350
+positive = 2 negative = 0
+index = 351
+positive = 7 negative = 0
+index = 352
+positive = 0 negative = 0
+index = 353
+positive = 4 negative = 0
+index = 354
+positive = 4 negative = 0
+index = 355
+positive = 3 negative = 1
+index = 356
+positive = 5 negative = 0
+index = 357
+positive = 5 negative = 0
+index = 358
+positive = 1 negative = 0
+index = 359
+positive = 4 negative = 0
+index = 360
+positive = 11 negative = 2
+index = 361
+positive = 0 negative = 0
+index = 362
+positive = 6 negative = 1
+index = 363
+positive = 4 negative = 0
+index = 364
+positive = 3 negative = 2
+index = 365
+positive = 0 negative = 0
+index = 366
+positive = 8 negative = 0
+index = 367
+positive = 4 negative = 1
+index = 368
+positive = 4 negative = 0
+index = 369
+positive = 1 negative = 0
+index = 370
+positive = 1 negative = 0
+index = 371
+positive = 2 negative = 0
+index = 372
+positive = 5 negative = 0
+index = 373
+positive = 3 negative = 0
+index = 374
+positive = 3 negative = 0
+index = 375
+positive = 1 negative = 0
+index = 376
+positive = 3 negative = 2
+index = 377
+positive = 3 negative = 0
+index = 378
+positive = 2 negative = 1
+index = 379
+positive = 4 negative = 0
+index = 380
+positive = 1 negative = 0
+index = 381
+positive = 1 negative = 2
+index = 382
+positive = 0 negative = 1
+index = 383
+positive = 2 negative = 0
+index = 384
+positive = 5 negative = 0
+index = 385
+positive = 2 negative = 1
+index = 386
+positive = 2 negative = 0
+index = 387
+positive = 2 negative = 0
+index = 388
+positive = 2 negative = 0
+index = 389
+positive = 0 negative = 0
+index = 390
+positive = 2 negative = 0
+index = 391
+positive = 2 negative = 0
+index = 392
+positive = 2 negative = 0
+index = 393
+positive = 1 negative = 0
+index = 394
+positive = 5 negative = 2
+index = 395
+positive = 0 negative = 1
+index = 396
+positive = 1 negative = 0
+index = 397
+positive = 1 negative = 0
+index = 398
+positive = 8 negative = 0
+index = 399
+positive = 0 negative = 0
+index = 400
+positive = 5 negative = 0
+index = 401
+positive = 2 negative = 0
+index = 402
+positive = 1 negative = 1
+index = 403
+positive = 3 negative = 0
+index = 404
+positive = 5 negative = 0
+index = 405
+positive = 5 negative = 0
+index = 406
+positive = 3 negative = 0
+index = 407
+positive = 2 negative = 0
+index = 408
+positive = 13 negative = 0
+index = 409
+positive = 2 negative = 0
+index = 410
+positive = 4 negative = 0
+index = 411
+positive = 5 negative = 0
+index = 412
+positive = 4 negative = 1
+index = 413
+positive = 2 negative = 0
+index = 414
+positive = 1 negative = 1
+index = 415
+positive = 2 negative = 0
+index = 416
+positive = 1 negative = 0
+index = 417
+positive = 0 negative = 0
+index = 418
+positive = 0 negative = 0
+index = 419
+positive = 2 negative = 0
+index = 420
+positive = 1 negative = 1
+index = 421
+positive = 3 negative = 2
+index = 422
+positive = 2 negative = 0
+index = 423
+positive = 4 negative = 0
+index = 424
+positive = 1 negative = 0
+index = 425
+positive = 6 negative = 0
+index = 426
+positive = 0 negative = 2
+index = 427
+positive = 2 negative = 0
+index = 428
+positive = 0 negative = 0
+index = 429
+positive = 3 negative = 0
+index = 430
+positive = 3 negative = 0
+index = 431
+positive = 0 negative = 1
+index = 432
+positive = 2 negative = 0
+index = 433
+positive = 0 negative = 2
+index = 434
+positive = 0 negative = 0
+index = 435
+positive = 1 negative = 0
+index = 436
+positive = 4 negative = 0
+index = 437
+positive = 2 negative = 1
+index = 438
+positive = 2 negative = 0
+index = 439
+positive = 2 negative = 1
+index = 440
+positive = 3 negative = 0
+index = 441
+positive = 3 negative = 0
+index = 442
+positive = 1 negative = 1
+index = 443
+positive = 2 negative = 0
+index = 444
+positive = 3 negative = 0
+index = 445
+positive = 4 negative = 0
+index = 446
+positive = 1 negative = 0
+index = 447
+positive = 2 negative = 0
+index = 448
+positive = 0 negative = 1
+index = 449
+positive = 9 negative = 0
+index = 450
+positive = 0 negative = 0
+index = 451
+positive = 5 negative = 1
+index = 452
+positive = 3 negative = 0
+index = 453
+positive = 5 negative = 3
+index = 454
+positive = 1 negative = 0
+index = 455
+positive = 25 negative = 19
+index = 456
+positive = 3 negative = 2
+index = 457
+positive = 3 negative = 0
+index = 458
+positive = 0 negative = 1
+index = 459
+positive = 3 negative = 0
+index = 460
+positive = 0 negative = 0
+index = 461
+positive = 5 negative = 0
+index = 462
+positive = 0 negative = 1
+index = 463
+positive = 2 negative = 1
+index = 464
+positive = 2 negative = 0
+index = 465
+positive = 3 negative = 2
+index = 466
+positive = 1 negative = 0
+index = 467
+positive = 3 negative = 1
+index = 468
+positive = 0 negative = 1
+index = 469
+positive = 3 negative = 2
+index = 470
+positive = 6 negative = 0
+index = 471
+positive = 7 negative = 0
+index = 472
+positive = 3 negative = 0
+index = 473
+positive = 2 negative = 0
+index = 474
+positive = 4 negative = 0
+index = 475
+positive = 0 negative = 1
+index = 476
+positive = 6 negative = 0
+index = 477
+positive = 3 negative = 0
+index = 478
+positive = 3 negative = 0
+index = 479
+positive = 8 negative = 1
+index = 480
+positive = 4 negative = 0
+index = 481
+positive = 0 negative = 0
+index = 482
+positive = 5 negative = 0
+index = 483
+positive = 0 negative = 0
+index = 484
+positive = 2 negative = 1
+index = 485
+positive = 1 negative = 0
+index = 486
+positive = 2 negative = 0
+index = 487
+positive = 3 negative = 0
+index = 488
+positive = 3 negative = 0
+index = 489
+positive = 0 negative = 0
+index = 490
+positive = 4 negative = 0
+index = 491
+positive = 5 negative = 1
+index = 492
+positive = 0 negative = 1
+index = 493
+positive = 1 negative = 0
+index = 494
+positive = 0 negative = 0
+index = 495
+positive = 4 negative = 0
+index = 496
+positive = 3 negative = 0
+index = 497
+positive = 1 negative = 1
+index = 498
+positive = 3 negative = 1
+index = 499
+positive = 3 negative = 5
+index = 500
+positive = 1 negative = 0
+index = 501
+positive = 0 negative = 1
+index = 502
+positive = 1 negative = 0
+index = 503
+positive = 7 negative = 3
+index = 504
+positive = 4 negative = 2
+index = 505
+positive = 3 negative = 0
+index = 506
+positive = 11 negative = 0
+index = 507
+positive = 3 negative = 0
+index = 508
+positive = 2 negative = 1
+index = 509
+positive = 4 negative = 3
+index = 510
+positive = 2 negative = 4
+index = 511
+positive = 4 negative = 1
+index = 512
+positive = 1 negative = 1
+index = 513
+positive = 0 negative = 3
+index = 514
+positive = 1 negative = 1
+index = 515
+positive = 2 negative = 3
+index = 516
+positive = 5 negative = 0
+index = 517
+positive = 3 negative = 1
+index = 518
+positive = 11 negative = 1
+index = 519
+positive = 2 negative = 0
+index = 520
+positive = 2 negative = 3
+index = 521
+positive = 7 negative = 1
+index = 522
+positive = 4 negative = 1
+index = 523
+positive = 2 negative = 1
+index = 524
+positive = 3 negative = 1
+index = 525
+positive = 3 negative = 0
+index = 526
+positive = 1 negative = 1
+index = 527
+positive = 6 negative = 0
+index = 528
+positive = 6 negative = 3
+index = 529
+positive = 0 negative = 1
+index = 530
+positive = 10 negative = 2
+index = 531
+positive = 1 negative = 0
+index = 532
+positive = 1 negative = 0
+index = 533
+positive = 2 negative = 0
+index = 534
+positive = 3 negative = 0
+index = 535
+positive = 4 negative = 0
+index = 536
+positive = 3 negative = 2
+index = 537
+positive = 2 negative = 0
+index = 538
+positive = 4 negative = 3
+index = 539
+positive = 7 negative = 2
+index = 540
+positive = 3 negative = 2
+index = 541
+positive = 2 negative = 2
+index = 542
+positive = 1 negative = 1
+index = 543
+positive = 0 negative = 0
+index = 544
+positive = 5 negative = 0
+index = 545
+positive = 5 negative = 0
+index = 546
+positive = 4 negative = 0
+index = 547
+positive = 5 negative = 0
+index = 548
+positive = 0 negative = 0
+index = 549
+positive = 1 negative = 1
+index = 550
+positive = 3 negative = 1
+index = 551
+positive = 4 negative = 0
+index = 552
+positive = 0 negative = 3
+index = 553
+positive = 1 negative = 2
+index = 554
+positive = 4 negative = 0
+index = 555
+positive = 1 negative = 0
+index = 556
+positive = 2 negative = 0
+index = 557
+positive = 3 negative = 0
+index = 558
+positive = 0 negative = 2
+index = 559
+positive = 6 negative = 1
+index = 560
+positive = 3 negative = 1
+index = 561
+positive = 6 negative = 2
+index = 562
+positive = 5 negative = 1
+index = 563
+positive = 5 negative = 1
+index = 564
+positive = 5 negative = 1
+index = 565
+positive = 3 negative = 1
+index = 566
+positive = 3 negative = 2
+index = 567
+positive = 5 negative = 0
+index = 568
+positive = 2 negative = 0
+index = 569
+positive = 2 negative = 0
+index = 570
+positive = 2 negative = 1
+index = 571
+positive = 1 negative = 0
+index = 572
+positive = 0 negative = 0
+index = 573
+positive = 4 negative = 0
+index = 574
+positive = 4 negative = 0
+index = 575
+positive = 0 negative = 1
+index = 576
+positive = 7 negative = 2
+index = 577
+positive = 2 negative = 2
+index = 578
+positive = 3 negative = 0
+index = 579
+positive = 1 negative = 2
+index = 580
+positive = 1 negative = 1
+index = 581
+positive = 4 negative = 1
+index = 582
+positive = 2 negative = 0
+index = 583
+positive = 3 negative = 1
+index = 584
+positive = 3 negative = 0
+index = 585
+positive = 4 negative = 2
+index = 586
+positive = 1 negative = 0
+index = 587
+positive = 2 negative = 0
+index = 588
+positive = 1 negative = 0
+index = 589
+positive = 5 negative = 0
+index = 590
+positive = 9 negative = 1
+index = 591
+positive = 3 negative = 2
+index = 592
+positive = 0 negative = 1
+index = 593
+positive = 1 negative = 4
+index = 594
+positive = 0 negative = 0
+index = 595
+positive = 10 negative = 1
+index = 596
+positive = 3 negative = 5
+index = 597
+positive = 1 negative = 2
+index = 598
+positive = 1 negative = 1
+index = 599
+positive = 7 negative = 4
+index = 600
+positive = 6 negative = 0
+index = 601
+positive = 3 negative = 0
+index = 602
+positive = 3 negative = 4
+index = 603
+positive = 2 negative = 1
+index = 604
+positive = 0 negative = 0
+index = 605
+positive = 1 negative = 1
+index = 606
+positive = 6 negative = 0
+index = 607
+positive = 2 negative = 1
+index = 608
+positive = 2 negative = 1
+index = 609
+positive = 3 negative = 0
+index = 610
+positive = 3 negative = 2
+index = 611
+positive = 2 negative = 1
+index = 612
+positive = 4 negative = 1
+index = 613
+positive = 1 negative = 1
+index = 614
+positive = 1 negative = 1
+index = 615
+positive = 1 negative = 0
+index = 616
+positive = 2 negative = 0
+index = 617
+positive = 0 negative = 0
+index = 618
+positive = 0 negative = 0
+index = 619
+positive = 5 negative = 5
+index = 620
+positive = 1 negative = 0
+index = 621
+positive = 2 negative = 0
+index = 622
+positive = 5 negative = 3
+index = 623
+positive = 1 negative = 0
+index = 624
+positive = 2 negative = 0
+index = 625
+positive = 6 negative = 0
+index = 626
+positive = 1 negative = 0
+index = 627
+positive = 5 negative = 2
+index = 628
+positive = 1 negative = 2
+index = 629
+positive = 4 negative = 0
+index = 630
+positive = 0 negative = 0
+index = 631
+positive = 2 negative = 1
+index = 632
+positive = 1 negative = 0
+index = 633
+positive = 1 negative = 1
+index = 634
+positive = 3 negative = 2
+index = 635
+positive = 2 negative = 1
+index = 636
+positive = 3 negative = 0
+index = 637
+positive = 1 negative = 0
+index = 638
+positive = 2 negative = 0
+index = 639
+positive = 2 negative = 0
+index = 640
+positive = 3 negative = 0
+index = 641
+positive = 6 negative = 0
+index = 642
+positive = 2 negative = 0
+index = 643
+positive = 1 negative = 0
+index = 644
+positive = 2 negative = 0
+index = 645
+positive = 0 negative = 1
+index = 646
+positive = 1 negative = 0
+index = 647
+positive = 0 negative = 1
+index = 648
+positive = 3 negative = 0
+index = 649
+positive = 1 negative = 1
+index = 650
+positive = 7 negative = 0
+index = 651
+positive = 1 negative = 0
+index = 652
+positive = 3 negative = 0
+index = 653
+positive = 0 negative = 0
+index = 654
+positive = 4 negative = 2
+index = 655
+positive = 5 negative = 1
+index = 656
+positive = 1 negative = 0
+index = 657
+positive = 1 negative = 0
+index = 658
+positive = 2 negative = 0
+index = 659
+positive = 0 negative = 0
+index = 660
+positive = 3 negative = 0
+index = 661
+positive = 3 negative = 0
+index = 662
+positive = 1 negative = 0
+index = 663
+positive = 5 negative = 0
+index = 664
+positive = 2 negative = 0
+index = 665
+positive = 1 negative = 0
+index = 666
+positive = 2 negative = 0
+index = 667
+positive = 3 negative = 0
+index = 668
+positive = 2 negative = 0
+index = 669
+positive = 0 negative = 2
+index = 670
+positive = 3 negative = 0
+index = 671
+positive = 5 negative = 1
+index = 672
+positive = 1 negative = 0
+index = 673
+positive = 1 negative = 1
+index = 674
+positive = 0 negative = 1
+index = 675
+positive = 7 negative = 0
+index = 676
+positive = 2 negative = 1
+index = 677
+positive = 2 negative = 0
+index = 678
+positive = 1 negative = 0
+index = 679
+positive = 4 negative = 1
+index = 680
+positive = 2 negative = 2
+index = 681
+positive = 0 negative = 0
+index = 682
+positive = 1 negative = 0
+index = 683
+positive = 3 negative = 0
+index = 684
+positive = 0 negative = 1
+index = 685
+positive = 2 negative = 0
+index = 686
+positive = 4 negative = 0
+index = 687
+positive = 10 negative = 0
+index = 688
+positive = 10 negative = 0
+index = 689
+positive = 2 negative = 0
+index = 690
+positive = 3 negative = 1
+index = 691
+positive = 4 negative = 0
+index = 692
+positive = 0 negative = 0
+index = 693
+positive = 2 negative = 0
+index = 694
+positive = 5 negative = 3
+index = 695
+positive = 8 negative = 0
+index = 696
+positive = 4 negative = 0
+index = 697
+positive = 9 negative = 2
+index = 698
+positive = 4 negative = 1
+index = 699
+positive = 0 negative = 0
+index = 700
+positive = 3 negative = 2
+index = 701
+positive = 7 negative = 0
+index = 702
+positive = 4 negative = 1
+index = 703
+positive = 2 negative = 0
+index = 704
+positive = 11 negative = 2
+index = 705
+positive = 8 negative = 1
+index = 706
+positive = 0 negative = 0
+index = 707
+positive = 0 negative = 0
+index = 708
+positive = 0 negative = 0
+index = 709
+positive = 0 negative = 0
+index = 710
+positive = 12 negative = 1
+index = 711
+positive = 3 negative = 0
+index = 712
+positive = 7 negative = 0
+index = 713
+positive = 2 negative = 0
+index = 714
+positive = 2 negative = 0
+index = 715
+positive = 0 negative = 0
+index = 716
+positive = 2 negative = 2
+index = 717
+positive = 0 negative = 0
+index = 718
+positive = 0 negative = 0
+index = 719
+positive = 6 negative = 0
+index = 720
+positive = 7 negative = 1
+index = 721
+positive = 1 negative = 0
+index = 722
+positive = 0 negative = 0
+index = 723
+positive = 3 negative = 0
+index = 724
+positive = 1 negative = 0
+index = 725
+positive = 2 negative = 0
+index = 726
+positive = 2 negative = 0
+index = 727
+positive = 0 negative = 0
+index = 728
+positive = 1 negative = 0
+index = 729
+positive = 0 negative = 0
+index = 730
+positive = 0 negative = 0
+index = 731
+positive = 4 negative = 0
+index = 732
+positive = 8 negative = 0
+index = 733
+positive = 9 negative = 2
+index = 734
+positive = 0 negative = 0
+index = 735
+positive = 2 negative = 1
+index = 736
+positive = 1 negative = 0
+index = 737
+positive = 4 negative = 0
+index = 738
+positive = 0 negative = 0
+index = 739
+positive = 3 negative = 2
+index = 740
+positive = 2 negative = 0
+index = 741
+positive = 5 negative = 1
+index = 742
+positive = 3 negative = 0
+index = 743
+positive = 4 negative = 2
+index = 744
+positive = 10 negative = 0
+index = 745
+positive = 0 negative = 0
+index = 746
+positive = 5 negative = 1
+index = 747
+positive = 3 negative = 0
+index = 748
+positive = 3 negative = 0
+index = 749
+positive = 4 negative = 0
+index = 750
+positive = 0 negative = 0
+index = 751
+positive = 4 negative = 0
+index = 752
+positive = 8 negative = 0
+index = 753
+positive = 4 negative = 6
+index = 754
+positive = 11 negative = 1
+index = 755
+positive = 3 negative = 1
+index = 756
+positive = 6 negative = 2
+index = 757
+positive = 4 negative = 3
+index = 758
+positive = 7 negative = 3
+index = 759
+positive = 5 negative = 0
+index = 760
+positive = 15 negative = 4
+index = 761
+positive = 1 negative = 1
+index = 762
+positive = 0 negative = 0
+index = 763
+positive = 1 negative = 0
+index = 764
+positive = 0 negative = 0
+index = 765
+positive = 2 negative = 0
+index = 766
+positive = 0 negative = 0
+index = 767
+positive = 1 negative = 0
+index = 768
+positive = 1 negative = 0
+index = 769
+positive = 0 negative = 0
+index = 770
+positive = 4 negative = 3
+index = 771
+positive = 2 negative = 1
+index = 772
+positive = 2 negative = 0
+index = 773
+positive = 2 negative = 2
+index = 774
+positive = 3 negative = 0
+index = 775
+positive = 1 negative = 0
+index = 776
+positive = 7 negative = 0
+index = 777
+positive = 4 negative = 0
+index = 778
+positive = 3 negative = 0
+index = 779
+positive = 0 negative = 0
+index = 780
+positive = 0 negative = 2
+index = 781
+positive = 3 negative = 0
+index = 782
+positive = 0 negative = 0
+index = 783
+positive = 1 negative = 0
+index = 784
+positive = 4 negative = 0
+index = 785
+positive = 5 negative = 0
+index = 786
+positive = 7 negative = 0
+index = 787
+positive = 5 negative = 0
+index = 788
+positive = 2 negative = 0
+index = 789
+positive = 4 negative = 0
+index = 790
+positive = 3 negative = 1
+index = 791
+positive = 2 negative = 0
+index = 792
+positive = 4 negative = 0
+index = 793
+positive = 4 negative = 1
+index = 794
+positive = 7 negative = 1
+index = 795
+positive = 1 negative = 1
+index = 796
+positive = 4 negative = 0
+index = 797
+positive = 3 negative = 0
+index = 798
+positive = 2 negative = 0
+index = 799
+positive = 9 negative = 1
+index = 800
+positive = 0 negative = 0
+index = 801
+positive = 2 negative = 0
+index = 802
+positive = 13 negative = 17
+index = 803
+positive = 1 negative = 3
+index = 804
+positive = 1 negative = 1
+index = 805
+positive = 2 negative = 0
+index = 806
+positive = 0 negative = 1
+index = 807
+positive = 2 negative = 0
+index = 808
+positive = 0 negative = 1
+index = 809
+positive = 0 negative = 0
+index = 810
+positive = 2 negative = 0
+index = 811
+positive = 1 negative = 0
+index = 812
+positive = 6 negative = 0
+index = 813
+positive = 1 negative = 0
+index = 814
+positive = 1 negative = 0
+index = 815
+positive = 1 negative = 0
+index = 816
+positive = 9 negative = 0
+index = 817
+positive = 0 negative = 0
+index = 818
+positive = 0 negative = 1
+index = 819
+positive = 2 negative = 0
+index = 820
+positive = 3 negative = 1
+index = 821
+positive = 0 negative = 0
+index = 822
+positive = 1 negative = 0
+index = 823
+positive = 1 negative = 0
+index = 824
+positive = 2 negative = 0
+index = 825
+positive = 1 negative = 1
+index = 826
+positive = 4 negative = 0
+index = 827
+positive = 0 negative = 0
+index = 828
+positive = 6 negative = 3
+index = 829
+positive = 2 negative = 0
+index = 830
+positive = 0 negative = 0
+index = 831
+positive = 2 negative = 0
+index = 832
+positive = 1 negative = 0
+index = 833
+positive = 0 negative = 0
+index = 834
+positive = 3 negative = 0
+index = 835
+positive = 1 negative = 0
+index = 836
+positive = 1 negative = 0
+index = 837
+positive = 0 negative = 0
+index = 838
+positive = 0 negative = 0
+index = 839
+positive = 1 negative = 3
+index = 840
+positive = 1 negative = 0
+index = 841
+positive = 0 negative = 0
+index = 842
+positive = 3 negative = 0
+index = 843
+positive = 2 negative = 3
+index = 844
+positive = 3 negative = 0
+index = 845
+positive = 1 negative = 0
+index = 846
+positive = 4 negative = 1
+index = 847
+positive = 2 negative = 1
+index = 848
+positive = 2 negative = 1
+index = 849
+positive = 6 negative = 1
+index = 850
+positive = 0 negative = 0
+index = 851
+positive = 0 negative = 0
+index = 852
+positive = 0 negative = 1
+index = 853
+positive = 2 negative = 0
+index = 854
+positive = 0 negative = 0
+index = 855
+positive = 1 negative = 1
+index = 856
+positive = 1 negative = 1
+index = 857
+positive = 3 negative = 0
+index = 858
+positive = 4 negative = 1
+index = 859
+positive = 4 negative = 1
+index = 860
+positive = 6 negative = 0
+index = 861
+positive = 1 negative = 0
+index = 862
+positive = 2 negative = 0
+index = 863
+positive = 1 negative = 0
+index = 864
+positive = 2 negative = 0
+index = 865
+positive = 2 negative = 1
+index = 866
+positive = 18 negative = 3
+index = 867
+positive = 1 negative = 1
+index = 868
+positive = 0 negative = 0
+index = 869
+positive = 1 negative = 0
+index = 870
+positive = 13 negative = 22
+index = 871
+positive = 6 negative = 3
+index = 872
+positive = 0 negative = 1
+index = 873
+positive = 3 negative = 1
+index = 874
+positive = 3 negative = 2
+index = 875
+positive = 3 negative = 0
+index = 876
+positive = 2 negative = 2
+index = 877
+positive = 1 negative = 0
+index = 878
+positive = 0 negative = 2
+index = 879
+positive = 3 negative = 2
+index = 880
+positive = 0 negative = 2
+index = 881
+positive = 6 negative = 1
+index = 882
+positive = 4 negative = 1
+index = 883
+positive = 2 negative = 1
+index = 884
+positive = 5 negative = 1
+index = 885
+positive = 1 negative = 1
+index = 886
+positive = 3 negative = 1
+index = 887
+positive = 3 negative = 1
+index = 888
+positive = 1 negative = 0
+index = 889
+positive = 3 negative = 0
+index = 890
+positive = 2 negative = 0
+index = 891
+positive = 0 negative = 0
+index = 892
+positive = 3 negative = 4
+index = 893
+positive = 0 negative = 0
+index = 894
+positive = 10 negative = 3
+index = 895
+positive = 2 negative = 4
+index = 896
+positive = 1 negative = 0
+index = 897
+positive = 6 negative = 2
+index = 898
+positive = 1 negative = 3
+index = 899
+positive = 1 negative = 0
+index = 900
+positive = 0 negative = 0
+index = 901
+positive = 0 negative = 0
+index = 902
+positive = 3 negative = 0
+index = 903
+positive = 2 negative = 2
+index = 904
+positive = 4 negative = 1
+index = 905
+positive = 0 negative = 0
+index = 906
+positive = 0 negative = 0
+index = 907
+positive = 1 negative = 0
+index = 908
+positive = 0 negative = 0
+index = 909
+positive = 1 negative = 0
+index = 910
+positive = 0 negative = 0
+index = 911
+positive = 0 negative = 0
+index = 912
+positive = 5 negative = 0
+index = 913
+positive = 4 negative = 0
+index = 914
+positive = 2 negative = 0
+index = 915
+positive = 10 negative = 0
+index = 916
+positive = 4 negative = 0
+index = 917
+positive = 0 negative = 0
+index = 918
+positive = 5 negative = 1
+index = 919
+positive = 6 negative = 0
+index = 920
+positive = 1 negative = 0
+index = 921
+positive = 3 negative = 0
+index = 922
+positive = 2 negative = 2
+index = 923
+positive = 1 negative = 0
+index = 924
+positive = 2 negative = 2
+index = 925
+positive = 0 negative = 0
+index = 926
+positive = 1 negative = 0
+index = 927
+positive = 2 negative = 0
+index = 928
+positive = 4 negative = 0
+index = 929
+positive = 0 negative = 1
+index = 930
+positive = 4 negative = 1
+index = 931
+positive = 2 negative = 0
+index = 932
+positive = 1 negative = 1
+index = 933
+positive = 0 negative = 2
+index = 934
+positive = 6 negative = 0
+index = 935
+positive = 0 negative = 1
+index = 936
+positive = 0 negative = 1
+index = 937
+positive = 0 negative = 0
+index = 938
+positive = 1 negative = 0
+index = 939
+positive = 1 negative = 1
+index = 940
+positive = 2 negative = 0
+index = 941
+positive = 2 negative = 0
+index = 942
+positive = 1 negative = 0
+index = 943
+positive = 2 negative = 1
+index = 944
+positive = 1 negative = 0
+index = 945
+positive = 2 negative = 0
+index = 946
+positive = 1 negative = 0
+index = 947
+positive = 3 negative = 0
+index = 948
+positive = 4 negative = 0
+index = 949
+positive = 0 negative = 1
+index = 950
+positive = 0 negative = 0
+index = 951
+positive = 3 negative = 0
+index = 952
+positive = 2 negative = 0
+index = 953
+positive = 0 negative = 0
+index = 954
+positive = 4 negative = 0
+index = 955
+positive = 3 negative = 0
+index = 956
+positive = 2 negative = 1
+index = 957
+positive = 3 negative = 1
+index = 958
+positive = 0 negative = 0
+index = 959
+positive = 8 negative = 0
+index = 960
+positive = 5 negative = 0
+index = 961
+positive = 3 negative = 1
+index = 962
+positive = 5 negative = 0
+index = 963
+positive = 1 negative = 0
+index = 964
+positive = 0 negative = 0
+index = 965
+positive = 1 negative = 0
+index = 966
+positive = 0 negative = 0
+index = 967
+positive = 2 negative = 0
+index = 968
+positive = 1 negative = 0
+index = 969
+positive = 0 negative = 0
+index = 970
+positive = 0 negative = 0
+index = 971
+positive = 0 negative = 0
+index = 972
+positive = 1 negative = 0
+index = 973
+positive = 1 negative = 0
+index = 974
+positive = 1 negative = 0
+index = 975
+positive = 3 negative = 0
+index = 976
+positive = 0 negative = 0
+index = 977
+positive = 1 negative = 0
+index = 978
+positive = 3 negative = 0
+index = 979
+positive = 2 negative = 0
+index = 980
+positive = 0 negative = 0
+index = 981
+positive = 3 negative = 0
+index = 982
+positive = 0 negative = 0
+index = 983
+positive = 1 negative = 1
+index = 984
+positive = 2 negative = 1
+index = 985
+positive = 0 negative = 0
+index = 986
+positive = 0 negative = 0
+index = 987
+positive = 0 negative = 0
+index = 988
+positive = 1 negative = 1
+index = 989
+positive = 1 negative = 0
+index = 990
+positive = 1 negative = 0
+index = 991
+positive = 0 negative = 0
+index = 992
+positive = 1 negative = 1
+index = 993
+positive = 1 negative = 0
+index = 994
+positive = 1 negative = 0
+index = 995
+positive = 1 negative = 1
+index = 996
+positive = 0 negative = 0
+index = 997
+positive = 2 negative = 0
+index = 998
+positive = 0 negative = 0
+index = 999
+positive = 1 negative = 0
+index = 1000
+positive = 1 negative = 0
+index = 1001
+positive = 1 negative = 0
+index = 1002
+positive = 2 negative = 0
+index = 1003
+positive = 0 negative = 0
+index = 1004
+positive = 0 negative = 0
+index = 1005
+positive = 1 negative = 0
+index = 1006
+positive = 5 negative = 0
+index = 1007
+positive = 3 negative = 0
+index = 1008
+positive = 0 negative = 1
+index = 1009
+positive = 1 negative = 0
+index = 1010
+positive = 0 negative = 0
+index = 1011
+positive = 3 negative = 0
+index = 1012
+positive = 0 negative = 0
+index = 1013
+positive = 1 negative = 0
+index = 1014
+positive = 1 negative = 0
+index = 1015
+positive = 2 negative = 0
